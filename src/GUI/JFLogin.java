@@ -139,6 +139,11 @@ public class JFLogin extends javax.swing.JFrame {
         });
 
         btnNavegar.setText("Navegar");
+        btnNavegar.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                btnNavegarMouseClicked(evt);
+            }
+        });
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
@@ -211,6 +216,10 @@ public class JFLogin extends javax.swing.JFrame {
         try{
             if (txtEmail.getText().contains("@")&&txtSenha.getText().length()>=6) {
                JOptionPane.showMessageDialog(null,"Seja muito bem vindo!");
+                       JFPaginaInicial inicio = new JFPaginaInicial();
+        inicio.setVisible(true);
+        this.dispose();
+               
             }else{
 throw new IllegalArgumentException();
             }
@@ -222,6 +231,16 @@ throw new IllegalArgumentException();
         
         
     }//GEN-LAST:event_btnLogarMouseClicked
+
+    private void btnNavegarMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btnNavegarMouseClicked
+        // TODO add your handling code here:
+        JFPaginaInicial inicio = new JFPaginaInicial();
+        inicio.setVisible(true);
+        this.dispose();
+        
+        
+        
+    }//GEN-LAST:event_btnNavegarMouseClicked
 
     /**
      * @param args the command line arguments
