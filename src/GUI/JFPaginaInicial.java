@@ -18,6 +18,7 @@ public class JFPaginaInicial extends javax.swing.JFrame {
      */
     public JFPaginaInicial() {
         initComponents();
+        this.setLocationRelativeTo(null);
         
     }
 
@@ -65,7 +66,6 @@ public class JFPaginaInicial extends javax.swing.JFrame {
         lblCarrinho = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setPreferredSize(new java.awt.Dimension(750, 801));
 
         jPanel1.setBackground(new java.awt.Color(93, 172, 189));
         jPanel1.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -355,6 +355,7 @@ public class JFPaginaInicial extends javax.swing.JFrame {
         lblPerfil.setFont(new java.awt.Font("Yu Gothic Medium", 0, 14)); // NOI18N
         lblPerfil.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/account.png"))); // NOI18N
         lblPerfil.setText("Perfil");
+        lblPerfil.setToolTipText("");
         lblPerfil.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
                 lblPerfilMouseClicked(evt);
@@ -443,8 +444,8 @@ public class JFPaginaInicial extends javax.swing.JFrame {
     }//GEN-LAST:event_lblCarrinhoMouseClicked
 
     private void lblPerfilMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_lblPerfilMouseClicked
-        // TODO add your handling code here:
-        //Implementar:
+        new JFPerfil().setVisible(true);
+        dispose();
     }//GEN-LAST:event_lblPerfilMouseClicked
 
     private void btnComprarPromo3MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btnComprarPromo3MouseClicked
