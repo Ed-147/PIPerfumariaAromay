@@ -19,7 +19,7 @@ public class JFPaginaInicial extends javax.swing.JFrame {
     public JFPaginaInicial() {
         initComponents();
         this.setLocationRelativeTo(null);
-        
+
     }
 
     /**
@@ -66,6 +66,8 @@ public class JFPaginaInicial extends javax.swing.JFrame {
         lblCarrinho = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+
+        jScrollPane1.setAlignmentY(1.0F);
 
         jPanel1.setBackground(new java.awt.Color(93, 172, 189));
         jPanel1.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
@@ -432,8 +434,8 @@ public class JFPaginaInicial extends javax.swing.JFrame {
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
-                .addGap(0, 0, Short.MAX_VALUE)
-                .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 819, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addGap(0, 0, 0)
+                .addComponent(jScrollPane1, javax.swing.GroupLayout.DEFAULT_SIZE, 819, Short.MAX_VALUE))
         );
 
         pack();
@@ -451,55 +453,75 @@ public class JFPaginaInicial extends javax.swing.JFrame {
 
     private void btnComprarPromo3MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btnComprarPromo3MouseClicked
         // TODO add your handling code here:
-        if (cmbQtdePromo3.getSelectedIndex()==0) {
-            JOptionPane.showMessageDialog(null,"Por favor selecione quantos itens você deseja!");
+        if (cmbQtdePromo3.getSelectedIndex() == 0) {
+            JOptionPane.showMessageDialog(null, "Por favor selecione quantos itens você deseja!");
         }
     }//GEN-LAST:event_btnComprarPromo3MouseClicked
 
     private void btnComprarPromo2MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btnComprarPromo2MouseClicked
         // TODO add your handling code here:
-        if (cmbQtdePromo2.getSelectedIndex()==0) {
-            JOptionPane.showMessageDialog(null,"Por favor selecione quantos itens você deseja!");
+        if (cmbQtdePromo2.getSelectedIndex() == 0) {
+            JOptionPane.showMessageDialog(null, "Por favor selecione quantos itens você deseja!");
         }
     }//GEN-LAST:event_btnComprarPromo2MouseClicked
 
     private void btnComprarPromo1MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btnComprarPromo1MouseClicked
         // TODO add your handling code here:
-        if (cmbQtdePromo1.getSelectedIndex()==0) {
-            JOptionPane.showMessageDialog(null,"Por favor selecione quantos itens você deseja!");
+        if (cmbQtdePromo1.getSelectedIndex() == 0) {
+            JOptionPane.showMessageDialog(null, "Por favor selecione quantos itens você deseja!");
         }
     }//GEN-LAST:event_btnComprarPromo1MouseClicked
 
     private void lblProdPCasaMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_lblProdPCasaMouseClicked
         // TODO add your handling code here:
         //Implementar
+        
+        JFProdutos prod = new JFProdutos(5);
+        prod.setVisible(true);
+        this.dispose();
     }//GEN-LAST:event_lblProdPCasaMouseClicked
 
     private void lblProdInfantilMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_lblProdInfantilMouseClicked
         // TODO add your handling code here:
         //Implementar
+        
+        JFProdutos prod = new JFProdutos(4);
+        prod.setVisible(true);
+        this.dispose();
     }//GEN-LAST:event_lblProdInfantilMouseClicked
 
     private void lblProdCorpoMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_lblProdCorpoMouseClicked
         // TODO add your handling code here:
         //Implementar
+        
+        JFProdutos prod = new JFProdutos(3);
+        prod.setVisible(true);
+        this.dispose();
     }//GEN-LAST:event_lblProdCorpoMouseClicked
 
     private void lblProdDenteMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_lblProdDenteMouseClicked
         // TODO add your handling code here:
         //Implementar
+        
+        JFProdutos prod = new JFProdutos(2);
+        prod.setVisible(true);
+        this.dispose();
     }//GEN-LAST:event_lblProdDenteMouseClicked
 
     private void lblProdCabeloMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_lblProdCabeloMouseClicked
         // TODO add your handling code here:
         //Implementar
+        
+        JFProdutos prod = new JFProdutos(1);
+        prod.setVisible(true);
+        this.dispose();
     }//GEN-LAST:event_lblProdCabeloMouseClicked
 
     private void btnBuscarMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btnBuscarMouseClicked
         // TODO add your handling code here:
         if (txtBuscar.getText().equals("")) {
-            JOptionPane.showMessageDialog(null,"Por favor preencha corretamente o campo de pesquisa!");
-        }else{
+            JOptionPane.showMessageDialog(null, "Por favor preencha corretamente o campo de pesquisa!");
+        } else {
             //Implementar
         }
     }//GEN-LAST:event_btnBuscarMouseClicked
