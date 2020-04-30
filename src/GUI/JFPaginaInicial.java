@@ -476,7 +476,7 @@ public class JFPaginaInicial extends javax.swing.JFrame {
         // TODO add your handling code here:
         //Implementar
         
-        JFProdutos prod = new JFProdutos(5);
+        JFLoja prod = new JFLoja(5);
         prod.setVisible(true);
         this.dispose();
     }//GEN-LAST:event_lblProdPCasaMouseClicked
@@ -485,7 +485,7 @@ public class JFPaginaInicial extends javax.swing.JFrame {
         // TODO add your handling code here:
         //Implementar
         
-        JFProdutos prod = new JFProdutos(4);
+        JFLoja prod = new JFLoja(4);
         prod.setVisible(true);
         this.dispose();
     }//GEN-LAST:event_lblProdInfantilMouseClicked
@@ -494,7 +494,7 @@ public class JFPaginaInicial extends javax.swing.JFrame {
         // TODO add your handling code here:
         //Implementar
         
-        JFProdutos prod = new JFProdutos(3);
+        JFLoja prod = new JFLoja(3);
         prod.setVisible(true);
         this.dispose();
     }//GEN-LAST:event_lblProdCorpoMouseClicked
@@ -503,7 +503,7 @@ public class JFPaginaInicial extends javax.swing.JFrame {
         // TODO add your handling code here:
         //Implementar
         
-        JFProdutos prod = new JFProdutos(2);
+        JFLoja prod = new JFLoja(2);
         prod.setVisible(true);
         this.dispose();
     }//GEN-LAST:event_lblProdDenteMouseClicked
@@ -512,7 +512,7 @@ public class JFPaginaInicial extends javax.swing.JFrame {
         // TODO add your handling code here:
         //Implementar
         
-        JFProdutos prod = new JFProdutos(1);
+        JFLoja prod = new JFLoja(1);
         prod.setVisible(true);
         this.dispose();
     }//GEN-LAST:event_lblProdCabeloMouseClicked
