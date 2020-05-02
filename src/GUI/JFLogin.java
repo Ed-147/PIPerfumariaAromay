@@ -150,33 +150,33 @@ public class JFLogin extends javax.swing.JFrame {
         jPanel1Layout.setHorizontalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel1Layout.createSequentialGroup()
-                .addGap(164, 164, 164)
-                .addComponent(lblLogo)
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
-                .addContainerGap(111, Short.MAX_VALUE)
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
-                        .addComponent(btnNavegar)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
-                        .addComponent(btnFechar)
-                        .addContainerGap())
-                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
-                        .addComponent(jPanel2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addGap(101, 101, 101))))
+                    .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                        .addGroup(jPanel1Layout.createSequentialGroup()
+                            .addGap(42, 42, 42)
+                            .addComponent(jPanel2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                        .addGroup(jPanel1Layout.createSequentialGroup()
+                            .addGap(216, 216, 216)
+                            .addComponent(btnNavegar)
+                            .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                            .addComponent(btnFechar)))
+                    .addGroup(jPanel1Layout.createSequentialGroup()
+                        .addGap(114, 114, 114)
+                        .addComponent(lblLogo)))
+                .addContainerGap(59, Short.MAX_VALUE))
         );
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
-                .addGap(59, 59, 59)
+                .addGap(15, 15, 15)
                 .addComponent(lblLogo)
-                .addGap(18, 18, 18)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(jPanel2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 56, Short.MAX_VALUE)
+                .addGap(18, 18, 18)
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(btnFechar)
-                    .addComponent(btnNavegar))
-                .addContainerGap())
+                    .addComponent(btnNavegar)
+                    .addComponent(btnFechar))
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
@@ -210,26 +210,31 @@ public class JFLogin extends javax.swing.JFrame {
 
     private void btnLogarMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btnLogarMouseClicked
         // TODO add your handling code here:
-        if (txtEmail.getText().equals("")&&txtSenha.getText().equals("")) {
-            JOptionPane.showMessageDialog(null,"Preencha corretamente os campos!");
-        }else{
-        try{
-            if (txtEmail.getText().contains("@")&&txtSenha.getText().length()>=6) {
-               JOptionPane.showMessageDialog(null,"Seja muito bem vindo!");
-                       JFPaginaInicial inicio = new JFPaginaInicial();
-        inicio.setVisible(true);
-        this.dispose();
-               
-            }else{
-throw new IllegalArgumentException();
+        if (txtEmail.getText().equals("") && txtSenha.getText().equals("")) {
+            JOptionPane.showMessageDialog(null, "Preencha corretamente os campos!");
+        } else {
+            try {
+                if ((txtEmail.getText().contains("@") && txtEmail.getText().contains(".com")) && txtSenha.getText().length() >= 6) {
+                    JOptionPane.showMessageDialog(null, "Seja muito bem vindo!");
+                    if (txtEmail.getText().contains("@aromay.com.br")) {//Aqui estou vendo se é um funcionário da loja
+                        JFPaginaInicialFuncionario PagInicialFuncionario = new JFPaginaInicialFuncionario();
+                        PagInicialFuncionario.setVisible(true);
+                        this.dispose();
+                    } else {//É um cliente logando!
+                        JFPaginaInicial inicio = new JFPaginaInicial();
+                        inicio.setVisible(true);
+                        this.dispose();
+                    }
+                } else {
+                    throw new IllegalArgumentException();
+                }
+
+            } catch (IllegalArgumentException e) {
+                JOptionPane.showMessageDialog(null, "Preencha corretamente os campos!");
             }
-        
-        }catch(IllegalArgumentException e){
-                    JOptionPane.showMessageDialog(null,"Preencha corretamente os campos!");
         }
-        }
-        
-        
+
+
     }//GEN-LAST:event_btnLogarMouseClicked
 
     private void btnNavegarMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_btnNavegarMouseClicked
@@ -237,9 +242,8 @@ throw new IllegalArgumentException();
         JFPaginaInicial inicio = new JFPaginaInicial();
         inicio.setVisible(true);
         this.dispose();
-        
-        
-        
+
+
     }//GEN-LAST:event_btnNavegarMouseClicked
 
     /**

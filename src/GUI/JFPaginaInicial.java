@@ -32,7 +32,7 @@ public class JFPaginaInicial extends javax.swing.JFrame {
     private void initComponents() {
 
         jScrollPane1 = new javax.swing.JScrollPane();
-        jPanel1 = new javax.swing.JPanel();
+        pnlPaginaInicial = new javax.swing.JPanel();
         lblImgInicial = new javax.swing.JLabel();
         txtBuscar = new javax.swing.JTextField();
         lblIcone = new javax.swing.JLabel();
@@ -69,8 +69,8 @@ public class JFPaginaInicial extends javax.swing.JFrame {
 
         jScrollPane1.setAlignmentY(1.0F);
 
-        jPanel1.setBackground(new java.awt.Color(93, 172, 189));
-        jPanel1.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
+        pnlPaginaInicial.setBackground(new java.awt.Color(93, 172, 189));
+        pnlPaginaInicial.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
 
         lblImgInicial.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/BemVindo.png"))); // NOI18N
 
@@ -373,13 +373,13 @@ public class JFPaginaInicial extends javax.swing.JFrame {
             }
         });
 
-        javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
-        jPanel1.setLayout(jPanel1Layout);
-        jPanel1Layout.setHorizontalGroup(
-            jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel1Layout.createSequentialGroup()
-                .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(jPanel1Layout.createSequentialGroup()
+        javax.swing.GroupLayout pnlPaginaInicialLayout = new javax.swing.GroupLayout(pnlPaginaInicial);
+        pnlPaginaInicial.setLayout(pnlPaginaInicialLayout);
+        pnlPaginaInicialLayout.setHorizontalGroup(
+            pnlPaginaInicialLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(pnlPaginaInicialLayout.createSequentialGroup()
+                .addGroup(pnlPaginaInicialLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(pnlPaginaInicialLayout.createSequentialGroup()
                         .addGap(25, 25, 25)
                         .addComponent(lblIcone)
                         .addGap(18, 18, 18)
@@ -390,23 +390,23 @@ public class JFPaginaInicial extends javax.swing.JFrame {
                         .addComponent(lblCarrinho)
                         .addGap(18, 18, 18)
                         .addComponent(lblPerfil))
-                    .addGroup(jPanel1Layout.createSequentialGroup()
+                    .addGroup(pnlPaginaInicialLayout.createSequentialGroup()
                         .addGap(69, 69, 69)
                         .addComponent(lblImgInicial, javax.swing.GroupLayout.PREFERRED_SIZE, 596, javax.swing.GroupLayout.PREFERRED_SIZE))
-                    .addGroup(jPanel1Layout.createSequentialGroup()
+                    .addGroup(pnlPaginaInicialLayout.createSequentialGroup()
                         .addContainerGap()
                         .addComponent(pnlCategoria, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                    .addGroup(jPanel1Layout.createSequentialGroup()
+                    .addGroup(pnlPaginaInicialLayout.createSequentialGroup()
                         .addContainerGap()
                         .addComponent(pnlNovidades, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
                 .addContainerGap(19, Short.MAX_VALUE))
         );
-        jPanel1Layout.setVerticalGroup(
-            jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel1Layout.createSequentialGroup()
+        pnlPaginaInicialLayout.setVerticalGroup(
+            pnlPaginaInicialLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(pnlPaginaInicialLayout.createSequentialGroup()
                 .addContainerGap()
-                .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                .addGroup(pnlPaginaInicialLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(pnlPaginaInicialLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                         .addComponent(txtBuscar, javax.swing.GroupLayout.PREFERRED_SIZE, 33, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addComponent(btnBuscar, javax.swing.GroupLayout.PREFERRED_SIZE, 33, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addComponent(lblCarrinho)
@@ -421,7 +421,7 @@ public class JFPaginaInicial extends javax.swing.JFrame {
                 .addGap(78, 78, 78))
         );
 
-        jScrollPane1.setViewportView(jPanel1);
+        jScrollPane1.setViewportView(pnlPaginaInicial);
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
@@ -573,7 +573,6 @@ public class JFPaginaInicial extends javax.swing.JFrame {
     private javax.swing.JComboBox<String> cmbQtdePromo1;
     private javax.swing.JComboBox<String> cmbQtdePromo2;
     private javax.swing.JComboBox<String> cmbQtdePromo3;
-    private javax.swing.JPanel jPanel1;
     private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JLabel lblCarrinho;
     private javax.swing.JLabel lblIcone;
@@ -595,6 +594,7 @@ public class JFPaginaInicial extends javax.swing.JFrame {
     private javax.swing.JLabel lblTituloPromo3;
     private javax.swing.JPanel pnlCategoria;
     private javax.swing.JPanel pnlNovidades;
+    private javax.swing.JPanel pnlPaginaInicial;
     private javax.swing.JPanel pnlPromo1;
     private javax.swing.JPanel pnlPromo2;
     private javax.swing.JPanel pnlPromo3;

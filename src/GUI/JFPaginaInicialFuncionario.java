@@ -27,145 +27,244 @@ public class JFPaginaInicialFuncionario extends javax.swing.JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
-        jLabel1 = new javax.swing.JLabel();
-        lblIcone1 = new javax.swing.JLabel();
-        jLabel2 = new javax.swing.JLabel();
-        jLabel3 = new javax.swing.JLabel();
-        jLabel4 = new javax.swing.JLabel();
-        jLabel5 = new javax.swing.JLabel();
-        jLabel6 = new javax.swing.JLabel();
-        jMenuBar1 = new javax.swing.JMenuBar();
-        jMenu1 = new javax.swing.JMenu();
-        jMenuItem1 = new javax.swing.JMenuItem();
-        jMenu2 = new javax.swing.JMenu();
-        jMenuItem2 = new javax.swing.JMenuItem();
-        jMenuItem3 = new javax.swing.JMenuItem();
-        jMenu3 = new javax.swing.JMenu();
-        jMenuItem5 = new javax.swing.JMenuItem();
-        jMenuItem6 = new javax.swing.JMenuItem();
-        jMenu4 = new javax.swing.JMenu();
-        jMenuItem4 = new javax.swing.JMenuItem();
+        lblFotoEquipe = new javax.swing.JLabel();
+        lblIcone = new javax.swing.JLabel();
+        lblProdutos = new javax.swing.JLabel();
+        lblJargao = new javax.swing.JLabel();
+        lblFuncionarios = new javax.swing.JLabel();
+        lblNovoFuncionarios = new javax.swing.JLabel();
+        lblNovoProduto = new javax.swing.JLabel();
+        BarraNavegacao = new javax.swing.JMenuBar();
+        menuLoja = new javax.swing.JMenu();
+        MenuFuncionários = new javax.swing.JMenu();
+        NovoFuncionario = new javax.swing.JMenuItem();
+        Funcionarios = new javax.swing.JMenuItem();
+        MenuProdutos = new javax.swing.JMenu();
+        CadastrarProduto = new javax.swing.JMenuItem();
+        Produto = new javax.swing.JMenuItem();
+        MenuClientes = new javax.swing.JMenu();
+        Clientes = new javax.swing.JMenuItem();
+        CadastrarCliente = new javax.swing.JMenuItem();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setBackground(new java.awt.Color(93, 172, 189));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/employees.jpg"))); // NOI18N
+        lblFotoEquipe.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/employees.jpg"))); // NOI18N
 
-        lblIcone1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/aromayIcon.png"))); // NOI18N
+        lblIcone.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/aromayIcon.png"))); // NOI18N
 
-        jLabel2.setBackground(new java.awt.Color(93, 172, 189));
-        jLabel2.setFont(new java.awt.Font("Yu Gothic Medium", 0, 24)); // NOI18N
-        jLabel2.setText("VOCÊ NOS FAZ EXISTIR.");
-
-        jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/shop.png"))); // NOI18N
-        jLabel3.setText("NOVO PRODUTO");
-
-        jLabel4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/cream.png"))); // NOI18N
-        jLabel4.setText("PRODUTOS");
-
-        jLabel5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/business.png"))); // NOI18N
-        jLabel5.setText("Funcionários");
-
-        jLabel6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/man.png"))); // NOI18N
-        jLabel6.setText("NOVO FUNCIONÁRIO");
-
-        jMenu1.setText("Loja");
-
-        jMenuItem1.setText("Gerar promocoes");
-        jMenuItem1.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jMenuItem1ActionPerformed(evt);
+        lblProdutos.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/cream.png"))); // NOI18N
+        lblProdutos.setText("PRODUTOS");
+        lblProdutos.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                lblProdutosMouseClicked(evt);
             }
         });
-        jMenu1.add(jMenuItem1);
 
-        jMenuBar1.add(jMenu1);
+        lblJargao.setBackground(new java.awt.Color(93, 172, 189));
+        lblJargao.setFont(new java.awt.Font("Yu Gothic Medium", 0, 24)); // NOI18N
+        lblJargao.setText("VOCÊ NOS FAZ EXISTIR.");
 
-        jMenu2.setText("Funcionários");
-
-        jMenuItem2.setText("Cadastrar funcionários");
-        jMenuItem2.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jMenuItem2ActionPerformed(evt);
+        lblFuncionarios.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/business.png"))); // NOI18N
+        lblFuncionarios.setText("FUNCIONÁRIOS");
+        lblFuncionarios.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                lblFuncionariosMouseClicked(evt);
             }
         });
-        jMenu2.add(jMenuItem2);
 
-        jMenuItem3.setText("Funcionários");
-        jMenu2.add(jMenuItem3);
+        lblNovoFuncionarios.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/man.png"))); // NOI18N
+        lblNovoFuncionarios.setText("NOVO FUNCIONÁRIO");
+        lblNovoFuncionarios.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                lblNovoFuncionariosMouseClicked(evt);
+            }
+        });
 
-        jMenuBar1.add(jMenu2);
+        lblNovoProduto.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/shop.png"))); // NOI18N
+        lblNovoProduto.setText("NOVO PRODUTO");
+        lblNovoProduto.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                lblNovoProdutoMouseClicked(evt);
+            }
+        });
 
-        jMenu3.setText("Produtos");
+        menuLoja.setText("Loja");
+        BarraNavegacao.add(menuLoja);
 
-        jMenuItem5.setText("Cadastrar Produto");
-        jMenu3.add(jMenuItem5);
+        MenuFuncionários.setText("Funcionários");
 
-        jMenuItem6.setText("Produtos cadastrados");
-        jMenu3.add(jMenuItem6);
+        NovoFuncionario.setText("Cadastrar funcionários");
+        NovoFuncionario.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                NovoFuncionarioMouseClicked(evt);
+            }
+        });
+        NovoFuncionario.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                NovoFuncionarioActionPerformed(evt);
+            }
+        });
+        MenuFuncionários.add(NovoFuncionario);
 
-        jMenuBar1.add(jMenu3);
+        Funcionarios.setText("Funcionários");
+        Funcionarios.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                FuncionariosMouseClicked(evt);
+            }
+        });
+        MenuFuncionários.add(Funcionarios);
 
-        jMenu4.setText("Clientes");
+        BarraNavegacao.add(MenuFuncionários);
 
-        jMenuItem4.setText("Clientes cadastrados");
-        jMenu4.add(jMenuItem4);
+        MenuProdutos.setText("Produtos");
 
-        jMenuBar1.add(jMenu4);
+        CadastrarProduto.setText("Cadastrar Produto");
+        CadastrarProduto.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                CadastrarProdutoMouseClicked(evt);
+            }
+        });
+        MenuProdutos.add(CadastrarProduto);
 
-        setJMenuBar(jMenuBar1);
+        Produto.setText("Produtos cadastrados");
+        Produto.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mouseClicked(java.awt.event.MouseEvent evt) {
+                ProdutoMouseClicked(evt);
+            }
+        });
+        Produto.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                ProdutoActionPerformed(evt);
+            }
+        });
+        MenuProdutos.add(Produto);
+
+        BarraNavegacao.add(MenuProdutos);
+
+        MenuClientes.setText("Clientes");
+
+        Clientes.setText("Clientes cadastrados");
+        MenuClientes.add(Clientes);
+
+        CadastrarCliente.setText("Cadastrar Cliente");
+        MenuClientes.add(CadastrarCliente);
+
+        BarraNavegacao.add(MenuClientes);
+
+        setJMenuBar(BarraNavegacao);
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jLabel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
             .addGroup(layout.createSequentialGroup()
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(layout.createSequentialGroup()
-                        .addGap(12, 12, 12)
-                        .addComponent(lblIcone1)
-                        .addGap(18, 18, 18)
-                        .addComponent(jLabel2, javax.swing.GroupLayout.PREFERRED_SIZE, 465, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addGap(0, 0, Short.MAX_VALUE))
-                    .addGroup(layout.createSequentialGroup()
+                        .addGap(53, 53, 53)
+                        .addComponent(lblNovoProduto)
                         .addGap(29, 29, 29)
-                        .addComponent(jLabel3)
-                        .addGap(18, 18, 18)
-                        .addComponent(jLabel4)
+                        .addComponent(lblProdutos)
+                        .addGap(27, 27, 27)
+                        .addComponent(lblFuncionarios)
                         .addGap(34, 34, 34)
-                        .addComponent(jLabel5)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                        .addComponent(jLabel6)))
-                .addContainerGap())
+                        .addComponent(lblNovoFuncionarios))
+                    .addGroup(layout.createSequentialGroup()
+                        .addGap(51, 51, 51)
+                        .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                            .addComponent(lblFotoEquipe)
+                            .addGroup(layout.createSequentialGroup()
+                                .addComponent(lblIcone)
+                                .addGap(18, 18, 18)
+                                .addComponent(lblJargao, javax.swing.GroupLayout.PREFERRED_SIZE, 465, javax.swing.GroupLayout.PREFERRED_SIZE)))))
+                .addContainerGap(57, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
-                .addComponent(jLabel1, javax.swing.GroupLayout.PREFERRED_SIZE, 439, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addComponent(lblFotoEquipe, javax.swing.GroupLayout.PREFERRED_SIZE, 439, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(lblIcone1, javax.swing.GroupLayout.PREFERRED_SIZE, 45, javax.swing.GroupLayout.PREFERRED_SIZE)
-                    .addComponent(jLabel2, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 40, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 16, Short.MAX_VALUE)
+                    .addComponent(lblIcone, javax.swing.GroupLayout.PREFERRED_SIZE, 45, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(lblJargao, javax.swing.GroupLayout.Alignment.TRAILING, javax.swing.GroupLayout.PREFERRED_SIZE, 40, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
-                    .addComponent(jLabel3)
-                    .addComponent(jLabel4)
-                    .addComponent(jLabel5)
-                    .addComponent(jLabel6))
-                .addGap(22, 22, 22))
+                    .addComponent(lblNovoFuncionarios)
+                    .addComponent(lblFuncionarios)
+                    .addComponent(lblProdutos)
+                    .addComponent(lblNovoProduto))
+                .addContainerGap(29, Short.MAX_VALUE))
         );
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
-    private void jMenuItem1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem1ActionPerformed
+    private void NovoFuncionarioActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_NovoFuncionarioActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jMenuItem1ActionPerformed
+    }//GEN-LAST:event_NovoFuncionarioActionPerformed
 
-    private void jMenuItem2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem2ActionPerformed
+    private void ProdutoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ProdutoActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jMenuItem2ActionPerformed
+    }//GEN-LAST:event_ProdutoActionPerformed
+
+    private void lblNovoProdutoMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_lblNovoProdutoMouseClicked
+        // TODO add your handling code here:
+        JFCadastroProd produto = new JFCadastroProd();
+        produto.setVisible(true);
+        this.dispose();
+
+    }//GEN-LAST:event_lblNovoProdutoMouseClicked
+
+    private void CadastrarProdutoMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_CadastrarProdutoMouseClicked
+        // TODO add your handling code here:
+        JFCadastroProd produto = new JFCadastroProd();
+        produto.setVisible(true);
+        this.dispose();
+    }//GEN-LAST:event_CadastrarProdutoMouseClicked
+
+    private void ProdutoMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_ProdutoMouseClicked
+        // TODO add your handling code here:
+        JFManterProdutos produto = new JFManterProdutos();
+        produto.setVisible(true);
+        this.dispose();
+    }//GEN-LAST:event_ProdutoMouseClicked
+
+    private void NovoFuncionarioMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_NovoFuncionarioMouseClicked
+        // TODO add your handling code here:
+        JFCadFunc fun = new JFCadFunc();
+        fun.setVisible(true);
+        this.dispose();
+        
+    }//GEN-LAST:event_NovoFuncionarioMouseClicked
+
+    private void FuncionariosMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_FuncionariosMouseClicked
+        // TODO add your handling code here:
+        JFManterFuncionarios fun = new JFManterFuncionarios();
+        fun.setVisible(true);
+        this.dispose();
+    }//GEN-LAST:event_FuncionariosMouseClicked
+
+    private void lblProdutosMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_lblProdutosMouseClicked
+        // TODO add your handling code here:
+                JFManterProdutos produto = new JFManterProdutos();
+        produto.setVisible(true);
+        this.dispose();
+    }//GEN-LAST:event_lblProdutosMouseClicked
+
+    private void lblFuncionariosMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_lblFuncionariosMouseClicked
+        // TODO add your handling code here:
+                JFManterFuncionarios fun = new JFManterFuncionarios();
+        fun.setVisible(true);
+        this.dispose();
+    }//GEN-LAST:event_lblFuncionariosMouseClicked
+
+    private void lblNovoFuncionariosMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_lblNovoFuncionariosMouseClicked
+        // TODO add your handling code here:
+                JFCadFunc fun = new JFCadFunc();
+        fun.setVisible(true);
+        this.dispose();
+        
+    }//GEN-LAST:event_lblNovoFuncionariosMouseClicked
 
     /**
      * @param args the command line arguments
@@ -203,23 +302,23 @@ public class JFPaginaInicialFuncionario extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private javax.swing.JLabel jLabel1;
-    private javax.swing.JLabel jLabel2;
-    private javax.swing.JLabel jLabel3;
-    private javax.swing.JLabel jLabel4;
-    private javax.swing.JLabel jLabel5;
-    private javax.swing.JLabel jLabel6;
-    private javax.swing.JMenu jMenu1;
-    private javax.swing.JMenu jMenu2;
-    private javax.swing.JMenu jMenu3;
-    private javax.swing.JMenu jMenu4;
-    private javax.swing.JMenuBar jMenuBar1;
-    private javax.swing.JMenuItem jMenuItem1;
-    private javax.swing.JMenuItem jMenuItem2;
-    private javax.swing.JMenuItem jMenuItem3;
-    private javax.swing.JMenuItem jMenuItem4;
-    private javax.swing.JMenuItem jMenuItem5;
-    private javax.swing.JMenuItem jMenuItem6;
-    private javax.swing.JLabel lblIcone1;
+    private javax.swing.JMenuBar BarraNavegacao;
+    private javax.swing.JMenuItem CadastrarCliente;
+    private javax.swing.JMenuItem CadastrarProduto;
+    private javax.swing.JMenuItem Clientes;
+    private javax.swing.JMenuItem Funcionarios;
+    private javax.swing.JMenu MenuClientes;
+    private javax.swing.JMenu MenuFuncionários;
+    private javax.swing.JMenu MenuProdutos;
+    private javax.swing.JMenuItem NovoFuncionario;
+    private javax.swing.JMenuItem Produto;
+    private javax.swing.JLabel lblFotoEquipe;
+    private javax.swing.JLabel lblFuncionarios;
+    private javax.swing.JLabel lblIcone;
+    private javax.swing.JLabel lblJargao;
+    private javax.swing.JLabel lblNovoFuncionarios;
+    private javax.swing.JLabel lblNovoProduto;
+    private javax.swing.JLabel lblProdutos;
+    private javax.swing.JMenu menuLoja;
     // End of variables declaration//GEN-END:variables
 }
