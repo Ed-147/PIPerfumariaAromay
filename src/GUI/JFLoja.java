@@ -96,30 +96,35 @@ public class JFLoja extends javax.swing.JFrame {
         jComboBox2 = new javax.swing.JComboBox<>();
         jButton2 = new javax.swing.JButton();
         jLabel8 = new javax.swing.JLabel();
+        jLabel1 = new javax.swing.JLabel();
         pnlCabeloFem2 = new javax.swing.JPanel();
         jLabel9 = new javax.swing.JLabel();
         jLabel10 = new javax.swing.JLabel();
         jComboBox3 = new javax.swing.JComboBox<>();
         jButton3 = new javax.swing.JButton();
         jLabel11 = new javax.swing.JLabel();
+        jLabel2 = new javax.swing.JLabel();
         pnlCabeloFem3 = new javax.swing.JPanel();
         jLabel12 = new javax.swing.JLabel();
         jLabel13 = new javax.swing.JLabel();
         jComboBox4 = new javax.swing.JComboBox<>();
         jButton4 = new javax.swing.JButton();
         jLabel14 = new javax.swing.JLabel();
+        jLabel3 = new javax.swing.JLabel();
         pnlCabeloFem4 = new javax.swing.JPanel();
         jLabel15 = new javax.swing.JLabel();
         jLabel16 = new javax.swing.JLabel();
         jComboBox5 = new javax.swing.JComboBox<>();
         jButton5 = new javax.swing.JButton();
         jLabel17 = new javax.swing.JLabel();
+        jLabel4 = new javax.swing.JLabel();
         pnlCabeloFem5 = new javax.swing.JPanel();
         jLabel18 = new javax.swing.JLabel();
         jLabel19 = new javax.swing.JLabel();
         jComboBox6 = new javax.swing.JComboBox<>();
         jButton6 = new javax.swing.JButton();
         jLabel20 = new javax.swing.JLabel();
+        jLabel5 = new javax.swing.JLabel();
         pnlCabeloMasculino = new javax.swing.JPanel();
         pnlCabeloMasc1 = new javax.swing.JPanel();
         jLabel21 = new javax.swing.JLabel();
@@ -127,18 +132,21 @@ public class JFLoja extends javax.swing.JFrame {
         jComboBox7 = new javax.swing.JComboBox<>();
         jButton7 = new javax.swing.JButton();
         jLabel23 = new javax.swing.JLabel();
+        jLabel30 = new javax.swing.JLabel();
         pnlCabeloMasc2 = new javax.swing.JPanel();
         jLabel24 = new javax.swing.JLabel();
         jLabel25 = new javax.swing.JLabel();
         jComboBox8 = new javax.swing.JComboBox<>();
         jButton8 = new javax.swing.JButton();
         jLabel26 = new javax.swing.JLabel();
+        jLabel31 = new javax.swing.JLabel();
         pnlCabeloMasc3 = new javax.swing.JPanel();
         jLabel27 = new javax.swing.JLabel();
         jLabel28 = new javax.swing.JLabel();
         jComboBox9 = new javax.swing.JComboBox<>();
         jButton9 = new javax.swing.JButton();
         jLabel29 = new javax.swing.JLabel();
+        jLabel32 = new javax.swing.JLabel();
         pnlBucal = new javax.swing.JPanel();
         pnlBucal1 = new javax.swing.JPanel();
         jLabel36 = new javax.swing.JLabel();
@@ -146,30 +154,35 @@ public class JFLoja extends javax.swing.JFrame {
         jComboBox12 = new javax.swing.JComboBox<>();
         jButton12 = new javax.swing.JButton();
         jLabel38 = new javax.swing.JLabel();
+        jLabel33 = new javax.swing.JLabel();
         pnlBucal2 = new javax.swing.JPanel();
         jLabel39 = new javax.swing.JLabel();
         jLabel40 = new javax.swing.JLabel();
         jComboBox13 = new javax.swing.JComboBox<>();
         jButton13 = new javax.swing.JButton();
         jLabel41 = new javax.swing.JLabel();
+        jLabel34 = new javax.swing.JLabel();
         pnlBucal3 = new javax.swing.JPanel();
         jLabel42 = new javax.swing.JLabel();
         jLabel43 = new javax.swing.JLabel();
         jComboBox14 = new javax.swing.JComboBox<>();
         jButton14 = new javax.swing.JButton();
         jLabel44 = new javax.swing.JLabel();
+        jLabel35 = new javax.swing.JLabel();
         pnlBucal4 = new javax.swing.JPanel();
         jLabel45 = new javax.swing.JLabel();
         jLabel46 = new javax.swing.JLabel();
         jComboBox15 = new javax.swing.JComboBox<>();
         jButton15 = new javax.swing.JButton();
         jLabel47 = new javax.swing.JLabel();
+        jLabel90 = new javax.swing.JLabel();
         pnlBucal5 = new javax.swing.JPanel();
         jLabel48 = new javax.swing.JLabel();
         jLabel49 = new javax.swing.JLabel();
         jComboBox16 = new javax.swing.JComboBox<>();
         jButton16 = new javax.swing.JButton();
         jLabel50 = new javax.swing.JLabel();
+        jLabel91 = new javax.swing.JLabel();
         pnlCorporal = new javax.swing.JPanel();
         pnlCorporal1 = new javax.swing.JPanel();
         jLabel51 = new javax.swing.JLabel();
@@ -177,30 +190,35 @@ public class JFLoja extends javax.swing.JFrame {
         jComboBox17 = new javax.swing.JComboBox<>();
         jButton17 = new javax.swing.JButton();
         jLabel53 = new javax.swing.JLabel();
+        jLabel92 = new javax.swing.JLabel();
         pnlCorporal2 = new javax.swing.JPanel();
         jLabel54 = new javax.swing.JLabel();
         jLabel55 = new javax.swing.JLabel();
         jComboBox18 = new javax.swing.JComboBox<>();
         jButton18 = new javax.swing.JButton();
         jLabel56 = new javax.swing.JLabel();
+        jLabel93 = new javax.swing.JLabel();
         pnlCorporal3 = new javax.swing.JPanel();
         jLabel57 = new javax.swing.JLabel();
         jLabel58 = new javax.swing.JLabel();
         jComboBox19 = new javax.swing.JComboBox<>();
         jButton19 = new javax.swing.JButton();
         jLabel59 = new javax.swing.JLabel();
+        jLabel94 = new javax.swing.JLabel();
         pnlCorporal4 = new javax.swing.JPanel();
         jLabel60 = new javax.swing.JLabel();
         jLabel61 = new javax.swing.JLabel();
         jComboBox20 = new javax.swing.JComboBox<>();
         jButton20 = new javax.swing.JButton();
         jLabel62 = new javax.swing.JLabel();
+        jLabel95 = new javax.swing.JLabel();
         pnlCorporal5 = new javax.swing.JPanel();
         jLabel63 = new javax.swing.JLabel();
         jLabel64 = new javax.swing.JLabel();
         jComboBox21 = new javax.swing.JComboBox<>();
         jButton21 = new javax.swing.JButton();
         jLabel65 = new javax.swing.JLabel();
+        jLabel96 = new javax.swing.JLabel();
         pnlPCasa = new javax.swing.JPanel();
         pnlPCasa1 = new javax.swing.JPanel();
         jLabel81 = new javax.swing.JLabel();
@@ -208,18 +226,21 @@ public class JFLoja extends javax.swing.JFrame {
         jComboBox27 = new javax.swing.JComboBox<>();
         jButton27 = new javax.swing.JButton();
         jLabel83 = new javax.swing.JLabel();
+        jLabel102 = new javax.swing.JLabel();
         pnlPCasa2 = new javax.swing.JPanel();
         jLabel84 = new javax.swing.JLabel();
         jLabel85 = new javax.swing.JLabel();
         jComboBox28 = new javax.swing.JComboBox<>();
         jButton28 = new javax.swing.JButton();
         jLabel86 = new javax.swing.JLabel();
+        jLabel103 = new javax.swing.JLabel();
         pnlPCasa3 = new javax.swing.JPanel();
         jLabel87 = new javax.swing.JLabel();
         jLabel88 = new javax.swing.JLabel();
         jComboBox29 = new javax.swing.JComboBox<>();
         jButton29 = new javax.swing.JButton();
         jLabel89 = new javax.swing.JLabel();
+        jLabel104 = new javax.swing.JLabel();
         pnlInfantil = new javax.swing.JPanel();
         pnlInfantil1 = new javax.swing.JPanel();
         jLabel66 = new javax.swing.JLabel();
@@ -227,30 +248,35 @@ public class JFLoja extends javax.swing.JFrame {
         jComboBox22 = new javax.swing.JComboBox<>();
         jButton22 = new javax.swing.JButton();
         jLabel68 = new javax.swing.JLabel();
+        jLabel97 = new javax.swing.JLabel();
         pnlInfantil2 = new javax.swing.JPanel();
         jLabel69 = new javax.swing.JLabel();
         jLabel70 = new javax.swing.JLabel();
         jComboBox23 = new javax.swing.JComboBox<>();
         jButton23 = new javax.swing.JButton();
         jLabel71 = new javax.swing.JLabel();
+        jLabel98 = new javax.swing.JLabel();
         pnlInfantil3 = new javax.swing.JPanel();
         jLabel72 = new javax.swing.JLabel();
         jLabel73 = new javax.swing.JLabel();
         jComboBox24 = new javax.swing.JComboBox<>();
         jButton24 = new javax.swing.JButton();
         jLabel74 = new javax.swing.JLabel();
+        jLabel99 = new javax.swing.JLabel();
         pnlInfantil4 = new javax.swing.JPanel();
         jLabel75 = new javax.swing.JLabel();
         jLabel76 = new javax.swing.JLabel();
         jComboBox25 = new javax.swing.JComboBox<>();
         jButton25 = new javax.swing.JButton();
         jLabel77 = new javax.swing.JLabel();
+        jLabel100 = new javax.swing.JLabel();
         pnlInfantil5 = new javax.swing.JPanel();
         jLabel78 = new javax.swing.JLabel();
         jLabel79 = new javax.swing.JLabel();
         jComboBox26 = new javax.swing.JComboBox<>();
         jButton26 = new javax.swing.JButton();
         jLabel80 = new javax.swing.JLabel();
+        jLabel101 = new javax.swing.JLabel();
         pnlCarrinho = new javax.swing.JPanel();
         lblPnlCarrinho = new javax.swing.JLabel();
         lblTituloTotal = new javax.swing.JLabel();
@@ -343,26 +369,35 @@ public class JFLoja extends javax.swing.JFrame {
 
         jLabel6.setText("Shampu Dove 200ml");
 
-        jLabel7.setText("R$ 9,73");
+        jLabel7.setText("9,73");
 
         jComboBox2.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Qtde", "1", "2", "3" }));
 
         jButton2.setText("Comprar");
         jButton2.setMargin(new java.awt.Insets(0, 0, 0, 0));
+        jButton2.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton2ActionPerformed(evt);
+            }
+        });
 
         jLabel8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/ShampooDove200ml.jpg"))); // NOI18N
+
+        jLabel1.setText("R$");
 
         javax.swing.GroupLayout pnlCabeloFem1Layout = new javax.swing.GroupLayout(pnlCabeloFem1);
         pnlCabeloFem1.setLayout(pnlCabeloFem1Layout);
         pnlCabeloFem1Layout.setHorizontalGroup(
             pnlCabeloFem1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(pnlCabeloFem1Layout.createSequentialGroup()
-                .addContainerGap(28, Short.MAX_VALUE)
+                .addContainerGap(21, Short.MAX_VALUE)
                 .addGroup(pnlCabeloFem1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pnlCabeloFem1Layout.createSequentialGroup()
                         .addComponent(jLabel6)
                         .addGap(39, 39, 39))
                     .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pnlCabeloFem1Layout.createSequentialGroup()
+                        .addComponent(jLabel1)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addComponent(jLabel7)
                         .addGap(65, 65, 65))))
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pnlCabeloFem1Layout.createSequentialGroup()
@@ -382,7 +417,9 @@ public class JFLoja extends javax.swing.JFrame {
                 .addGap(26, 26, 26)
                 .addComponent(jLabel6)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jLabel7)
+                .addGroup(pnlCabeloFem1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel7)
+                    .addComponent(jLabel1))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addGroup(pnlCabeloFem1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jComboBox2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
@@ -395,7 +432,7 @@ public class JFLoja extends javax.swing.JFrame {
 
         jLabel9.setText("Shampu Seda Babosa 325ml");
 
-        jLabel10.setText("R$ 11,25");
+        jLabel10.setText("11,25");
 
         jComboBox3.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Qtde", "1", "2", "3" }));
 
@@ -404,12 +441,16 @@ public class JFLoja extends javax.swing.JFrame {
 
         jLabel11.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/ShampooSedaRayzaBabosa325ml.jpg"))); // NOI18N
 
+        jLabel2.setText("R$");
+
         javax.swing.GroupLayout pnlCabeloFem2Layout = new javax.swing.GroupLayout(pnlCabeloFem2);
         pnlCabeloFem2.setLayout(pnlCabeloFem2Layout);
         pnlCabeloFem2Layout.setHorizontalGroup(
             pnlCabeloFem2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(pnlCabeloFem2Layout.createSequentialGroup()
-                .addComponent(jComboBox3, javax.swing.GroupLayout.PREFERRED_SIZE, 67, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGroup(pnlCabeloFem2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                    .addComponent(jComboBox3, javax.swing.GroupLayout.PREFERRED_SIZE, 67, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(jLabel2))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(pnlCabeloFem2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(jLabel10)
@@ -432,7 +473,9 @@ public class JFLoja extends javax.swing.JFrame {
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 28, Short.MAX_VALUE)
                 .addComponent(jLabel9)
                 .addGap(8, 8, 8)
-                .addComponent(jLabel10)
+                .addGroup(pnlCabeloFem2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel10)
+                    .addComponent(jLabel2))
                 .addGap(10, 10, 10)
                 .addGroup(pnlCabeloFem2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jComboBox3, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
@@ -445,7 +488,7 @@ public class JFLoja extends javax.swing.JFrame {
 
         jLabel12.setText("Condicionador Dove 200ml");
 
-        jLabel13.setText("R$ 17.90");
+        jLabel13.setText("17.90");
 
         jComboBox4.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Qtde", "1", "2", "3" }));
 
@@ -453,6 +496,8 @@ public class JFLoja extends javax.swing.JFrame {
         jButton4.setMargin(new java.awt.Insets(0, 0, 0, 0));
 
         jLabel14.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/CondicionarDove200ml.jpg"))); // NOI18N
+
+        jLabel3.setText("R$");
 
         javax.swing.GroupLayout pnlCabeloFem3Layout = new javax.swing.GroupLayout(pnlCabeloFem3);
         pnlCabeloFem3.setLayout(pnlCabeloFem3Layout);
@@ -468,7 +513,9 @@ public class JFLoja extends javax.swing.JFrame {
                         .addGap(36, 36, 36)
                         .addComponent(jLabel12))
                     .addGroup(javax.swing.GroupLayout.Alignment.LEADING, pnlCabeloFem3Layout.createSequentialGroup()
-                        .addGap(57, 57, 57)
+                        .addGap(62, 62, 62)
+                        .addComponent(jLabel3)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addComponent(jLabel13))
                     .addGroup(pnlCabeloFem3Layout.createSequentialGroup()
                         .addContainerGap()
@@ -483,9 +530,11 @@ public class JFLoja extends javax.swing.JFrame {
                 .addComponent(jLabel14, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addGap(18, 18, 18)
                 .addComponent(jLabel12)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jLabel13)
-                .addGap(13, 13, 13)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                .addGroup(pnlCabeloFem3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel13)
+                    .addComponent(jLabel3))
+                .addGap(8, 8, 8)
                 .addGroup(pnlCabeloFem3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jComboBox4, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                     .addComponent(jButton4))
@@ -497,7 +546,7 @@ public class JFLoja extends javax.swing.JFrame {
 
         jLabel15.setText("Condicionador Elseve 300ml");
 
-        jLabel16.setText("R$ 19,75");
+        jLabel16.setText("19,75");
 
         jComboBox5.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Qtde", "1", "2", "3" }));
 
@@ -506,29 +555,30 @@ public class JFLoja extends javax.swing.JFrame {
 
         jLabel17.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/CondicionadorElseve200ml.jpg"))); // NOI18N
 
+        jLabel4.setText("R$");
+
         javax.swing.GroupLayout pnlCabeloFem4Layout = new javax.swing.GroupLayout(pnlCabeloFem4);
         pnlCabeloFem4.setLayout(pnlCabeloFem4Layout);
         pnlCabeloFem4Layout.setHorizontalGroup(
             pnlCabeloFem4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(pnlCabeloFem4Layout.createSequentialGroup()
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addGroup(pnlCabeloFem4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pnlCabeloFem4Layout.createSequentialGroup()
-                        .addComponent(jLabel15)
-                        .addGap(32, 32, 32))
-                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pnlCabeloFem4Layout.createSequentialGroup()
-                        .addComponent(jLabel16)
-                        .addGap(63, 63, 63))))
-            .addGroup(pnlCabeloFem4Layout.createSequentialGroup()
-                .addGroup(pnlCabeloFem4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(pnlCabeloFem4Layout.createSequentialGroup()
-                        .addComponent(jComboBox5, javax.swing.GroupLayout.PREFERRED_SIZE, 64, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                        .addComponent(jButton5, javax.swing.GroupLayout.PREFERRED_SIZE, 87, javax.swing.GroupLayout.PREFERRED_SIZE))
                     .addGroup(pnlCabeloFem4Layout.createSequentialGroup()
                         .addGap(39, 39, 39)
-                        .addComponent(jLabel17)))
-                .addGap(0, 0, Short.MAX_VALUE))
+                        .addComponent(jLabel17))
+                    .addGroup(pnlCabeloFem4Layout.createSequentialGroup()
+                        .addGroup(pnlCabeloFem4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                            .addComponent(jComboBox5, javax.swing.GroupLayout.PREFERRED_SIZE, 64, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addComponent(jLabel4))
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addGroup(pnlCabeloFem4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                            .addComponent(jLabel16)
+                            .addComponent(jButton5, javax.swing.GroupLayout.PREFERRED_SIZE, 87, javax.swing.GroupLayout.PREFERRED_SIZE))))
+                .addGap(0, 6, Short.MAX_VALUE))
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pnlCabeloFem4Layout.createSequentialGroup()
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(jLabel15)
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
         pnlCabeloFem4Layout.setVerticalGroup(
             pnlCabeloFem4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -538,7 +588,9 @@ public class JFLoja extends javax.swing.JFrame {
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addComponent(jLabel15)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jLabel16)
+                .addGroup(pnlCabeloFem4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel16)
+                    .addComponent(jLabel4))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addGroup(pnlCabeloFem4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jComboBox5, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
@@ -551,7 +603,7 @@ public class JFLoja extends javax.swing.JFrame {
 
         jLabel18.setText("Máscara 315ml");
 
-        jLabel19.setText("R$ 20.69");
+        jLabel19.setText("20.69");
 
         jComboBox6.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Qtde", "1", "2", "3" }));
 
@@ -559,6 +611,8 @@ public class JFLoja extends javax.swing.JFrame {
         jButton6.setMargin(new java.awt.Insets(0, 0, 0, 0));
 
         jLabel20.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/mascaraAussie236ml.jpg"))); // NOI18N
+
+        jLabel5.setText("R$");
 
         javax.swing.GroupLayout pnlCabeloFem5Layout = new javax.swing.GroupLayout(pnlCabeloFem5);
         pnlCabeloFem5.setLayout(pnlCabeloFem5Layout);
@@ -573,11 +627,14 @@ public class JFLoja extends javax.swing.JFrame {
                 .addGap(0, 0, Short.MAX_VALUE)
                 .addGroup(pnlCabeloFem5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(jLabel20)
-                    .addGroup(pnlCabeloFem5Layout.createSequentialGroup()
-                        .addGap(10, 10, 10)
-                        .addComponent(jLabel19))
                     .addComponent(jLabel18))
                 .addGap(40, 40, 40))
+            .addGroup(pnlCabeloFem5Layout.createSequentialGroup()
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(jLabel5)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addComponent(jLabel19)
+                .addGap(49, 49, 49))
         );
         pnlCabeloFem5Layout.setVerticalGroup(
             pnlCabeloFem5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -586,8 +643,10 @@ public class JFLoja extends javax.swing.JFrame {
                 .addComponent(jLabel20)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addComponent(jLabel18)
-                .addGap(1, 1, 1)
-                .addComponent(jLabel19)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addGroup(pnlCabeloFem5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel19)
+                    .addComponent(jLabel5))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addGroup(pnlCabeloFem5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jComboBox6, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
@@ -606,7 +665,7 @@ public class JFLoja extends javax.swing.JFrame {
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(pnlCabeloFem3, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(pnlCabeloFem4, javax.swing.GroupLayout.PREFERRED_SIZE, 167, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addComponent(pnlCabeloFem4, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(pnlCabeloFem5, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(26, 26, 26))
@@ -628,7 +687,7 @@ public class JFLoja extends javax.swing.JFrame {
 
         jLabel21.setText("Gel Bozzano 390g");
 
-        jLabel22.setText("R$ 14,87");
+        jLabel22.setText("14,87");
 
         jComboBox7.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Qtde", "1", "2", "3" }));
 
@@ -636,6 +695,8 @@ public class JFLoja extends javax.swing.JFrame {
         jButton7.setMargin(new java.awt.Insets(0, 0, 0, 0));
 
         jLabel23.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/GelBozzano.jpg"))); // NOI18N
+
+        jLabel30.setText("R$");
 
         javax.swing.GroupLayout pnlCabeloMasc1Layout = new javax.swing.GroupLayout(pnlCabeloMasc1);
         pnlCabeloMasc1.setLayout(pnlCabeloMasc1Layout);
@@ -645,14 +706,15 @@ public class JFLoja extends javax.swing.JFrame {
                 .addGap(43, 43, 43)
                 .addGroup(pnlCabeloMasc1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(jLabel21)
-                    .addComponent(jLabel23)
-                    .addGroup(pnlCabeloMasc1Layout.createSequentialGroup()
-                        .addGap(10, 10, 10)
-                        .addComponent(jLabel22))))
+                    .addComponent(jLabel23)))
             .addGroup(pnlCabeloMasc1Layout.createSequentialGroup()
-                .addComponent(jComboBox7, javax.swing.GroupLayout.PREFERRED_SIZE, 77, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGroup(pnlCabeloMasc1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                    .addComponent(jComboBox7, javax.swing.GroupLayout.PREFERRED_SIZE, 77, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(jLabel30))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jButton7, javax.swing.GroupLayout.PREFERRED_SIZE, 83, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addGroup(pnlCabeloMasc1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(jLabel22)
+                    .addComponent(jButton7, javax.swing.GroupLayout.PREFERRED_SIZE, 83, javax.swing.GroupLayout.PREFERRED_SIZE)))
         );
         pnlCabeloMasc1Layout.setVerticalGroup(
             pnlCabeloMasc1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -662,7 +724,9 @@ public class JFLoja extends javax.swing.JFrame {
                 .addGap(18, 18, 18)
                 .addComponent(jLabel21)
                 .addGap(1, 1, 1)
-                .addComponent(jLabel22)
+                .addGroup(pnlCabeloMasc1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel22)
+                    .addComponent(jLabel30))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addGroup(pnlCabeloMasc1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jComboBox7, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
@@ -675,7 +739,7 @@ public class JFLoja extends javax.swing.JFrame {
 
         jLabel24.setText("Shampu Clear 200ml");
 
-        jLabel25.setText("R$ 9,68");
+        jLabel25.setText("9,68");
 
         jComboBox8.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Qtde", "1", "2", "3" }));
 
@@ -683,6 +747,8 @@ public class JFLoja extends javax.swing.JFrame {
         jButton8.setMargin(new java.awt.Insets(0, 0, 0, 0));
 
         jLabel26.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/clearman200ml.jpg"))); // NOI18N
+
+        jLabel31.setText("R$");
 
         javax.swing.GroupLayout pnlCabeloMasc2Layout = new javax.swing.GroupLayout(pnlCabeloMasc2);
         pnlCabeloMasc2.setLayout(pnlCabeloMasc2Layout);
@@ -697,7 +763,11 @@ public class JFLoja extends javax.swing.JFrame {
                 .addComponent(jLabel24)
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pnlCabeloMasc2Layout.createSequentialGroup()
-                .addComponent(jComboBox8, 0, 62, Short.MAX_VALUE)
+                .addGroup(pnlCabeloMasc2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(jComboBox8, 0, 62, Short.MAX_VALUE)
+                    .addGroup(pnlCabeloMasc2Layout.createSequentialGroup()
+                        .addGap(0, 0, Short.MAX_VALUE)
+                        .addComponent(jLabel31)))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(pnlCabeloMasc2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(jLabel25)
@@ -707,12 +777,14 @@ public class JFLoja extends javax.swing.JFrame {
             pnlCabeloMasc2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pnlCabeloMasc2Layout.createSequentialGroup()
                 .addGap(16, 16, 16)
-                .addComponent(jLabel26, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(jLabel26, javax.swing.GroupLayout.DEFAULT_SIZE, 70, Short.MAX_VALUE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(jLabel24)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jLabel25)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addGroup(pnlCabeloMasc2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(jLabel31)
+                    .addComponent(jLabel25, javax.swing.GroupLayout.Alignment.TRAILING))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addGroup(pnlCabeloMasc2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jComboBox8, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                     .addComponent(jButton8))
@@ -722,10 +794,9 @@ public class JFLoja extends javax.swing.JFrame {
         pnlCabeloMasc3.setBackground(new java.awt.Color(93, 172, 189));
         pnlCabeloMasc3.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
 
-        jLabel27.setFont(new java.awt.Font("Tahoma", 0, 8)); // NOI18N
         jLabel27.setText("Condicionador clear 190ml");
 
-        jLabel28.setText("R$ 12.90");
+        jLabel28.setText("12.90");
 
         jComboBox9.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Qtde", "1", "2", "3" }));
 
@@ -733,6 +804,8 @@ public class JFLoja extends javax.swing.JFrame {
         jButton9.setMargin(new java.awt.Insets(0, 0, 0, 0));
 
         jLabel29.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/CondicionadorClear.jpg"))); // NOI18N
+
+        jLabel32.setText("R$");
 
         javax.swing.GroupLayout pnlCabeloMasc3Layout = new javax.swing.GroupLayout(pnlCabeloMasc3);
         pnlCabeloMasc3.setLayout(pnlCabeloMasc3Layout);
@@ -743,17 +816,21 @@ public class JFLoja extends javax.swing.JFrame {
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(jButton9, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pnlCabeloMasc3Layout.createSequentialGroup()
-                .addGap(0, 0, Short.MAX_VALUE)
                 .addGroup(pnlCabeloMasc3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(jLabel29)
                     .addGroup(pnlCabeloMasc3Layout.createSequentialGroup()
-                        .addGap(19, 19, 19)
-                        .addComponent(jLabel28)))
+                        .addGap(0, 0, Short.MAX_VALUE)
+                        .addComponent(jLabel29))
+                    .addGroup(pnlCabeloMasc3Layout.createSequentialGroup()
+                        .addGap(60, 60, 60)
+                        .addComponent(jLabel32)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(jLabel28)
+                        .addGap(0, 0, Short.MAX_VALUE)))
                 .addGap(55, 55, 55))
             .addGroup(pnlCabeloMasc3Layout.createSequentialGroup()
                 .addGap(42, 42, 42)
                 .addComponent(jLabel27)
-                .addContainerGap(39, Short.MAX_VALUE))
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
         pnlCabeloMasc3Layout.setVerticalGroup(
             pnlCabeloMasc3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -763,7 +840,9 @@ public class JFLoja extends javax.swing.JFrame {
                 .addGap(18, 18, 18)
                 .addComponent(jLabel27)
                 .addGap(1, 1, 1)
-                .addComponent(jLabel28)
+                .addGroup(pnlCabeloMasc3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel28)
+                    .addComponent(jLabel32))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addGroup(pnlCabeloMasc3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jComboBox9, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
@@ -798,7 +877,7 @@ public class JFLoja extends javax.swing.JFrame {
 
         jLabel36.setText("Creme dental Colgate");
 
-        jLabel37.setText("R$ 4.93");
+        jLabel37.setText("4.93");
 
         jComboBox12.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Qtde", "1", "2", "3" }));
 
@@ -807,19 +886,12 @@ public class JFLoja extends javax.swing.JFrame {
 
         jLabel38.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/ColgateBrilliantWhite.jpg"))); // NOI18N
 
+        jLabel33.setText("R$");
+
         javax.swing.GroupLayout pnlBucal1Layout = new javax.swing.GroupLayout(pnlBucal1);
         pnlBucal1.setLayout(pnlBucal1Layout);
         pnlBucal1Layout.setHorizontalGroup(
             pnlBucal1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(pnlBucal1Layout.createSequentialGroup()
-                .addGroup(pnlBucal1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(pnlBucal1Layout.createSequentialGroup()
-                        .addGap(46, 46, 46)
-                        .addComponent(jLabel37))
-                    .addGroup(pnlBucal1Layout.createSequentialGroup()
-                        .addContainerGap()
-                        .addComponent(jLabel36)))
-                .addContainerGap(48, Short.MAX_VALUE))
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pnlBucal1Layout.createSequentialGroup()
                 .addGap(0, 0, Short.MAX_VALUE)
                 .addComponent(jLabel38)
@@ -828,17 +900,29 @@ public class JFLoja extends javax.swing.JFrame {
                 .addComponent(jComboBox12, javax.swing.GroupLayout.PREFERRED_SIZE, 63, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(jButton12, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pnlBucal1Layout.createSequentialGroup()
+                .addContainerGap(30, Short.MAX_VALUE)
+                .addComponent(jLabel36)
+                .addGap(28, 28, 28))
+            .addGroup(pnlBucal1Layout.createSequentialGroup()
+                .addGap(58, 58, 58)
+                .addComponent(jLabel33)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addComponent(jLabel37)
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
         pnlBucal1Layout.setVerticalGroup(
             pnlBucal1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pnlBucal1Layout.createSequentialGroup()
                 .addContainerGap()
                 .addComponent(jLabel38)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addGap(18, 18, 18)
                 .addComponent(jLabel36)
-                .addGap(1, 1, 1)
-                .addComponent(jLabel37)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addGroup(pnlBucal1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel37)
+                    .addComponent(jLabel33))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addGroup(pnlBucal1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jComboBox12, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                     .addComponent(jButton12))
@@ -850,7 +934,7 @@ public class JFLoja extends javax.swing.JFrame {
 
         jLabel39.setText("Fio Dental Johnsons");
 
-        jLabel40.setText("R$ 5.67");
+        jLabel40.setText("5.67");
 
         jComboBox13.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Qtde", "1", "2", "3" }));
 
@@ -858,6 +942,8 @@ public class JFLoja extends javax.swing.JFrame {
         jButton13.setMargin(new java.awt.Insets(0, 0, 0, 0));
 
         jLabel41.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/fioDental.jpg"))); // NOI18N
+
+        jLabel34.setText("R$");
 
         javax.swing.GroupLayout pnlBucal2Layout = new javax.swing.GroupLayout(pnlBucal2);
         pnlBucal2.setLayout(pnlBucal2Layout);
@@ -872,12 +958,15 @@ public class JFLoja extends javax.swing.JFrame {
                 .addComponent(jLabel41)
                 .addGap(49, 49, 49))
             .addGroup(pnlBucal2Layout.createSequentialGroup()
-                .addGap(45, 45, 45)
                 .addGroup(pnlBucal2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(jLabel39)
-                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pnlBucal2Layout.createSequentialGroup()
-                        .addComponent(jLabel40)
-                        .addGap(34, 34, 34)))
+                    .addGroup(pnlBucal2Layout.createSequentialGroup()
+                        .addGap(45, 45, 45)
+                        .addComponent(jLabel39))
+                    .addGroup(pnlBucal2Layout.createSequentialGroup()
+                        .addGap(67, 67, 67)
+                        .addComponent(jLabel34)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                        .addComponent(jLabel40)))
                 .addContainerGap(37, Short.MAX_VALUE))
         );
         pnlBucal2Layout.setVerticalGroup(
@@ -886,9 +975,11 @@ public class JFLoja extends javax.swing.JFrame {
                 .addContainerGap()
                 .addComponent(jLabel41, javax.swing.GroupLayout.PREFERRED_SIZE, 60, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(18, 18, 18)
-                .addComponent(jLabel39)
+                .addComponent(jLabel39, javax.swing.GroupLayout.PREFERRED_SIZE, 14, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(1, 1, 1)
-                .addComponent(jLabel40)
+                .addGroup(pnlBucal2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel40)
+                    .addComponent(jLabel34))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addGroup(pnlBucal2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jComboBox13, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
@@ -901,7 +992,7 @@ public class JFLoja extends javax.swing.JFrame {
 
         jLabel42.setText("Creme Dental Sensonite");
 
-        jLabel43.setText("R$ 7.98");
+        jLabel43.setText("7.98");
 
         jComboBox14.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Qtde", "1", "2", "3" }));
 
@@ -910,10 +1001,21 @@ public class JFLoja extends javax.swing.JFrame {
 
         jLabel44.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/Sensodyne.jpg"))); // NOI18N
 
+        jLabel35.setText("R$");
+
         javax.swing.GroupLayout pnlBucal3Layout = new javax.swing.GroupLayout(pnlBucal3);
         pnlBucal3.setLayout(pnlBucal3Layout);
         pnlBucal3Layout.setHorizontalGroup(
             pnlBucal3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGroup(pnlBucal3Layout.createSequentialGroup()
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addComponent(jLabel35)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addComponent(jLabel43)
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+            .addGroup(pnlBucal3Layout.createSequentialGroup()
+                .addGap(30, 30, 30)
+                .addComponent(jLabel42))
             .addGroup(pnlBucal3Layout.createSequentialGroup()
                 .addGroup(pnlBucal3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(pnlBucal3Layout.createSequentialGroup()
@@ -921,15 +1023,8 @@ public class JFLoja extends javax.swing.JFrame {
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addComponent(jButton14, javax.swing.GroupLayout.PREFERRED_SIZE, 91, javax.swing.GroupLayout.PREFERRED_SIZE))
                     .addGroup(pnlBucal3Layout.createSequentialGroup()
-                        .addGap(30, 30, 30)
-                        .addComponent(jLabel42))
-                    .addGroup(pnlBucal3Layout.createSequentialGroup()
                         .addGap(48, 48, 48)
-                        .addComponent(jLabel44))
-                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pnlBucal3Layout.createSequentialGroup()
-                        .addContainerGap()
-                        .addComponent(jLabel43)
-                        .addGap(66, 66, 66)))
+                        .addComponent(jLabel44)))
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
         pnlBucal3Layout.setVerticalGroup(
@@ -940,7 +1035,9 @@ public class JFLoja extends javax.swing.JFrame {
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(jLabel42)
                 .addGap(1, 1, 1)
-                .addComponent(jLabel43)
+                .addGroup(pnlBucal3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel43)
+                    .addComponent(jLabel35))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addGroup(pnlBucal3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jComboBox14, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
@@ -953,7 +1050,7 @@ public class JFLoja extends javax.swing.JFrame {
 
         jLabel45.setText("Enxaguante Listerine");
 
-        jLabel46.setText("R$ 8.99");
+        jLabel46.setText("8.99");
 
         jComboBox15.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Qtde", "1", "2", "3" }));
 
@@ -961,6 +1058,8 @@ public class JFLoja extends javax.swing.JFrame {
         jButton15.setMargin(new java.awt.Insets(0, 0, 0, 0));
 
         jLabel47.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/Listerine500ml.jpg"))); // NOI18N
+
+        jLabel90.setText("R$");
 
         javax.swing.GroupLayout pnlBucal4Layout = new javax.swing.GroupLayout(pnlBucal4);
         pnlBucal4.setLayout(pnlBucal4Layout);
@@ -972,15 +1071,20 @@ public class JFLoja extends javax.swing.JFrame {
                 .addComponent(jButton15, javax.swing.GroupLayout.PREFERRED_SIZE, 99, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(0, 0, Short.MAX_VALUE))
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pnlBucal4Layout.createSequentialGroup()
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addComponent(jLabel46)
-                .addGap(55, 55, 55))
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pnlBucal4Layout.createSequentialGroup()
                 .addGap(0, 0, Short.MAX_VALUE)
-                .addGroup(pnlBucal4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
-                    .addComponent(jLabel45)
-                    .addComponent(jLabel47))
+                .addComponent(jLabel47)
                 .addGap(49, 49, 49))
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pnlBucal4Layout.createSequentialGroup()
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addGroup(pnlBucal4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pnlBucal4Layout.createSequentialGroup()
+                        .addComponent(jLabel90)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(jLabel46)
+                        .addGap(55, 55, 55))
+                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pnlBucal4Layout.createSequentialGroup()
+                        .addComponent(jLabel45)
+                        .addGap(29, 29, 29))))
         );
         pnlBucal4Layout.setVerticalGroup(
             pnlBucal4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -990,7 +1094,9 @@ public class JFLoja extends javax.swing.JFrame {
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(jLabel45)
                 .addGap(1, 1, 1)
-                .addComponent(jLabel46)
+                .addGroup(pnlBucal4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel46)
+                    .addComponent(jLabel90))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addGroup(pnlBucal4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jComboBox15, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
@@ -1003,7 +1109,7 @@ public class JFLoja extends javax.swing.JFrame {
 
         jLabel48.setText("Enxaguante Bucal Cepacol");
 
-        jLabel49.setText("R$ 6,09");
+        jLabel49.setText("6,09");
 
         jComboBox16.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Qtde", "1", "2", "3" }));
 
@@ -1012,14 +1118,12 @@ public class JFLoja extends javax.swing.JFrame {
 
         jLabel50.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/cepacol.jpg"))); // NOI18N
 
+        jLabel91.setText("R$");
+
         javax.swing.GroupLayout pnlBucal5Layout = new javax.swing.GroupLayout(pnlBucal5);
         pnlBucal5.setLayout(pnlBucal5Layout);
         pnlBucal5Layout.setHorizontalGroup(
             pnlBucal5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(pnlBucal5Layout.createSequentialGroup()
-                .addGap(50, 50, 50)
-                .addComponent(jLabel49)
-                .addGap(0, 0, Short.MAX_VALUE))
             .addGroup(pnlBucal5Layout.createSequentialGroup()
                 .addComponent(jComboBox16, javax.swing.GroupLayout.PREFERRED_SIZE, 59, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
@@ -1033,6 +1137,12 @@ public class JFLoja extends javax.swing.JFrame {
                     .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pnlBucal5Layout.createSequentialGroup()
                         .addComponent(jLabel50)
                         .addGap(50, 50, 50))))
+            .addGroup(pnlBucal5Layout.createSequentialGroup()
+                .addGap(54, 54, 54)
+                .addComponent(jLabel91)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addComponent(jLabel49)
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
         pnlBucal5Layout.setVerticalGroup(
             pnlBucal5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -1042,7 +1152,9 @@ public class JFLoja extends javax.swing.JFrame {
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addComponent(jLabel48)
                 .addGap(1, 1, 1)
-                .addComponent(jLabel49)
+                .addGroup(pnlBucal5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel49)
+                    .addComponent(jLabel91))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addGroup(pnlBucal5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jComboBox16, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
@@ -1083,7 +1195,7 @@ public class JFLoja extends javax.swing.JFrame {
 
         jLabel51.setText("Prestobarba Gillette 4uni");
 
-        jLabel52.setText("R$ 7.99");
+        jLabel52.setText("7.99");
 
         jComboBox17.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Qtde", "1", "2", "3" }));
         jComboBox17.addActionListener(new java.awt.event.ActionListener() {
@@ -1096,6 +1208,8 @@ public class JFLoja extends javax.swing.JFrame {
         jButton17.setMargin(new java.awt.Insets(0, 0, 0, 0));
 
         jLabel53.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/Gillete.jpg"))); // NOI18N
+
+        jLabel92.setText("R$");
 
         javax.swing.GroupLayout pnlCorporal1Layout = new javax.swing.GroupLayout(pnlCorporal1);
         pnlCorporal1.setLayout(pnlCorporal1Layout);
@@ -1115,7 +1229,9 @@ public class JFLoja extends javax.swing.JFrame {
                         .addGap(54, 54, 54)
                         .addComponent(jLabel53))
                     .addGroup(javax.swing.GroupLayout.Alignment.LEADING, pnlCorporal1Layout.createSequentialGroup()
-                        .addGap(63, 63, 63)
+                        .addGap(58, 58, 58)
+                        .addComponent(jLabel92)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                         .addComponent(jLabel52)))
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
@@ -1127,7 +1243,9 @@ public class JFLoja extends javax.swing.JFrame {
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addComponent(jLabel51)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jLabel52)
+                .addGroup(pnlCorporal1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel52)
+                    .addComponent(jLabel92))
                 .addGap(13, 13, 13)
                 .addGroup(pnlCorporal1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jComboBox17, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
@@ -1140,7 +1258,7 @@ public class JFLoja extends javax.swing.JFrame {
 
         jLabel54.setText("Hidratante nivea 200ml");
 
-        jLabel55.setText("R$ 5.99");
+        jLabel55.setText("5.99");
 
         jComboBox18.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Qtde", "1", "2", "3" }));
 
@@ -1148,6 +1266,8 @@ public class JFLoja extends javax.swing.JFrame {
         jButton18.setMargin(new java.awt.Insets(0, 0, 0, 0));
 
         jLabel56.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/CremeNivea200ml.png"))); // NOI18N
+
+        jLabel93.setText("R$");
 
         javax.swing.GroupLayout pnlCorporal2Layout = new javax.swing.GroupLayout(pnlCorporal2);
         pnlCorporal2.setLayout(pnlCorporal2Layout);
@@ -1159,14 +1279,15 @@ public class JFLoja extends javax.swing.JFrame {
                 .addComponent(jButton18, javax.swing.GroupLayout.PREFERRED_SIZE, 102, javax.swing.GroupLayout.PREFERRED_SIZE))
             .addGroup(pnlCorporal2Layout.createSequentialGroup()
                 .addGap(46, 46, 46)
-                .addGroup(pnlCorporal2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(jLabel56)
-                    .addGroup(pnlCorporal2Layout.createSequentialGroup()
-                        .addGap(19, 19, 19)
-                        .addComponent(jLabel55))))
+                .addComponent(jLabel56))
             .addGroup(pnlCorporal2Layout.createSequentialGroup()
                 .addGap(34, 34, 34)
                 .addComponent(jLabel54))
+            .addGroup(pnlCorporal2Layout.createSequentialGroup()
+                .addGap(59, 59, 59)
+                .addComponent(jLabel93)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addComponent(jLabel55))
         );
         pnlCorporal2Layout.setVerticalGroup(
             pnlCorporal2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -1176,7 +1297,9 @@ public class JFLoja extends javax.swing.JFrame {
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addComponent(jLabel54, javax.swing.GroupLayout.PREFERRED_SIZE, 14, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(1, 1, 1)
-                .addComponent(jLabel55)
+                .addGroup(pnlCorporal2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel55)
+                    .addComponent(jLabel93))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addGroup(pnlCorporal2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jComboBox18, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
@@ -1189,7 +1312,7 @@ public class JFLoja extends javax.swing.JFrame {
 
         jLabel57.setText("Protetor solar 50fps");
 
-        jLabel58.setText("R$ 17.99");
+        jLabel58.setText("17.99");
 
         jComboBox19.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Qtde", "1", "2", "3" }));
 
@@ -1198,12 +1321,16 @@ public class JFLoja extends javax.swing.JFrame {
 
         jLabel59.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/protetorSolar.png"))); // NOI18N
 
+        jLabel94.setText("R$");
+
         javax.swing.GroupLayout pnlCorporal3Layout = new javax.swing.GroupLayout(pnlCorporal3);
         pnlCorporal3.setLayout(pnlCorporal3Layout);
         pnlCorporal3Layout.setHorizontalGroup(
             pnlCorporal3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(pnlCorporal3Layout.createSequentialGroup()
-                .addComponent(jComboBox19, javax.swing.GroupLayout.PREFERRED_SIZE, 59, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGroup(pnlCorporal3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                    .addComponent(jComboBox19, javax.swing.GroupLayout.PREFERRED_SIZE, 59, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addComponent(jLabel94))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(pnlCorporal3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(pnlCorporal3Layout.createSequentialGroup()
@@ -1227,7 +1354,9 @@ public class JFLoja extends javax.swing.JFrame {
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addComponent(jLabel57)
                 .addGap(1, 1, 1)
-                .addComponent(jLabel58)
+                .addGroup(pnlCorporal3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel58)
+                    .addComponent(jLabel94))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addGroup(pnlCorporal3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jComboBox19, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
@@ -1240,7 +1369,7 @@ public class JFLoja extends javax.swing.JFrame {
 
         jLabel60.setText("Hidratante para pernas");
 
-        jLabel61.setText("R$ 21.00");
+        jLabel61.setText("21.00");
 
         jComboBox20.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Qtde", "1", "2", "3" }));
 
@@ -1249,6 +1378,8 @@ public class JFLoja extends javax.swing.JFrame {
 
         jLabel62.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/cremeGoicoechea.png"))); // NOI18N
 
+        jLabel95.setText("R$");
+
         javax.swing.GroupLayout pnlCorporal4Layout = new javax.swing.GroupLayout(pnlCorporal4);
         pnlCorporal4.setLayout(pnlCorporal4Layout);
         pnlCorporal4Layout.setHorizontalGroup(
@@ -1256,16 +1387,18 @@ public class JFLoja extends javax.swing.JFrame {
             .addGroup(pnlCorporal4Layout.createSequentialGroup()
                 .addGroup(pnlCorporal4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(pnlCorporal4Layout.createSequentialGroup()
-                        .addContainerGap()
+                        .addGap(57, 57, 57)
+                        .addComponent(jLabel95)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(jLabel61))
+                    .addGroup(pnlCorporal4Layout.createSequentialGroup()
+                        .addGap(25, 25, 25)
                         .addGroup(pnlCorporal4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                             .addComponent(jLabel60)
                             .addGroup(pnlCorporal4Layout.createSequentialGroup()
-                                .addGap(33, 33, 33)
-                                .addComponent(jLabel61))))
-                    .addGroup(pnlCorporal4Layout.createSequentialGroup()
-                        .addGap(25, 25, 25)
-                        .addComponent(jLabel62)))
-                .addContainerGap(42, Short.MAX_VALUE))
+                                .addGap(20, 20, 20)
+                                .addComponent(jLabel62)))))
+                .addContainerGap(27, Short.MAX_VALUE))
             .addGroup(pnlCorporal4Layout.createSequentialGroup()
                 .addComponent(jComboBox20, javax.swing.GroupLayout.PREFERRED_SIZE, 71, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
@@ -1276,11 +1409,13 @@ public class JFLoja extends javax.swing.JFrame {
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pnlCorporal4Layout.createSequentialGroup()
                 .addContainerGap()
                 .addComponent(jLabel62, javax.swing.GroupLayout.PREFERRED_SIZE, 60, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addGap(16, 16, 16)
                 .addComponent(jLabel60)
-                .addGap(1, 1, 1)
-                .addComponent(jLabel61)
-                .addGap(26, 26, 26)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addGroup(pnlCorporal4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel61)
+                    .addComponent(jLabel95))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addGroup(pnlCorporal4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jComboBox20, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                     .addComponent(jButton20))
@@ -1292,7 +1427,7 @@ public class JFLoja extends javax.swing.JFrame {
 
         jLabel63.setText("Conjunto Risqué 5uni");
 
-        jLabel64.setText("R$ 8.99");
+        jLabel64.setText("8.99");
 
         jComboBox21.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Qtde", "1", "2", "3" }));
 
@@ -1300,6 +1435,8 @@ public class JFLoja extends javax.swing.JFrame {
         jButton21.setMargin(new java.awt.Insets(0, 0, 0, 0));
 
         jLabel65.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/EsmaltesRique.jpg"))); // NOI18N
+
+        jLabel96.setText("R$");
 
         javax.swing.GroupLayout pnlCorporal5Layout = new javax.swing.GroupLayout(pnlCorporal5);
         pnlCorporal5.setLayout(pnlCorporal5Layout);
@@ -1313,14 +1450,16 @@ public class JFLoja extends javax.swing.JFrame {
                 .addContainerGap(23, Short.MAX_VALUE)
                 .addGroup(pnlCorporal5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pnlCorporal5Layout.createSequentialGroup()
+                        .addComponent(jLabel96)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(jLabel64)
+                        .addGap(54, 54, 54))
+                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pnlCorporal5Layout.createSequentialGroup()
                         .addComponent(jLabel65)
                         .addGap(41, 41, 41))
                     .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pnlCorporal5Layout.createSequentialGroup()
                         .addComponent(jLabel63)
-                        .addGap(28, 28, 28))
-                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pnlCorporal5Layout.createSequentialGroup()
-                        .addComponent(jLabel64)
-                        .addGap(54, 54, 54))))
+                        .addGap(28, 28, 28))))
         );
         pnlCorporal5Layout.setVerticalGroup(
             pnlCorporal5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -1330,7 +1469,9 @@ public class JFLoja extends javax.swing.JFrame {
                 .addGap(8, 8, 8)
                 .addComponent(jLabel63)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jLabel64)
+                .addGroup(pnlCorporal5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel64)
+                    .addComponent(jLabel96))
                 .addGap(16, 16, 16)
                 .addGroup(pnlCorporal5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jComboBox21, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
@@ -1371,7 +1512,7 @@ public class JFLoja extends javax.swing.JFrame {
 
         jLabel81.setText("Álcool Gel 430ml");
 
-        jLabel82.setText("R$ 14.00");
+        jLabel82.setText("14.00");
 
         jComboBox27.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Qtde", "1", "2", "3" }));
 
@@ -1379,6 +1520,8 @@ public class JFLoja extends javax.swing.JFrame {
         jButton27.setMargin(new java.awt.Insets(0, 0, 0, 0));
 
         jLabel83.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/alcoolGel.jpg"))); // NOI18N
+
+        jLabel102.setText("R$");
 
         javax.swing.GroupLayout pnlPCasa1Layout = new javax.swing.GroupLayout(pnlPCasa1);
         pnlPCasa1.setLayout(pnlPCasa1Layout);
@@ -1391,11 +1534,13 @@ public class JFLoja extends javax.swing.JFrame {
             .addGroup(pnlPCasa1Layout.createSequentialGroup()
                 .addGap(47, 47, 47)
                 .addGroup(pnlPCasa1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(jLabel81)
-                    .addComponent(jLabel83)
                     .addGroup(pnlPCasa1Layout.createSequentialGroup()
                         .addGap(10, 10, 10)
-                        .addComponent(jLabel82))))
+                        .addComponent(jLabel102)
+                        .addGap(1, 1, 1)
+                        .addComponent(jLabel82))
+                    .addComponent(jLabel81)
+                    .addComponent(jLabel83)))
         );
         pnlPCasa1Layout.setVerticalGroup(
             pnlPCasa1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -1405,7 +1550,9 @@ public class JFLoja extends javax.swing.JFrame {
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(jLabel81, javax.swing.GroupLayout.PREFERRED_SIZE, 14, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addGap(1, 1, 1)
-                .addComponent(jLabel82)
+                .addGroup(pnlPCasa1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel82)
+                    .addComponent(jLabel102))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(pnlPCasa1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jComboBox27, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
@@ -1418,7 +1565,7 @@ public class JFLoja extends javax.swing.JFrame {
 
         jLabel84.setText("Papel Hig. Sublime 4uni.");
 
-        jLabel85.setText("R$4.99");
+        jLabel85.setText("4.99");
 
         jComboBox28.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Qtde", "1", "2", "3" }));
 
@@ -1426,6 +1573,8 @@ public class JFLoja extends javax.swing.JFrame {
         jButton28.setMargin(new java.awt.Insets(0, 0, 0, 0));
 
         jLabel86.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/PapelHigienico.png"))); // NOI18N
+
+        jLabel103.setText("R$");
 
         javax.swing.GroupLayout pnlPCasa2Layout = new javax.swing.GroupLayout(pnlPCasa2);
         pnlPCasa2.setLayout(pnlPCasa2Layout);
@@ -1443,11 +1592,12 @@ public class JFLoja extends javax.swing.JFrame {
                 .addComponent(jComboBox28, javax.swing.GroupLayout.PREFERRED_SIZE, 63, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(pnlPCasa2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(jButton28, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pnlPCasa2Layout.createSequentialGroup()
-                        .addGap(0, 0, Short.MAX_VALUE)
+                    .addGroup(pnlPCasa2Layout.createSequentialGroup()
+                        .addComponent(jLabel103)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addComponent(jLabel85)
-                        .addGap(58, 58, 58))))
+                        .addGap(0, 0, Short.MAX_VALUE))
+                    .addComponent(jButton28, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)))
         );
         pnlPCasa2Layout.setVerticalGroup(
             pnlPCasa2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -1457,7 +1607,9 @@ public class JFLoja extends javax.swing.JFrame {
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(jLabel84)
                 .addGap(1, 1, 1)
-                .addComponent(jLabel85)
+                .addGroup(pnlPCasa2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel85)
+                    .addComponent(jLabel103))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(pnlPCasa2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(jComboBox28, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
@@ -1470,7 +1622,7 @@ public class JFLoja extends javax.swing.JFrame {
 
         jLabel87.setText("Sabonete Pheebo 6uni");
 
-        jLabel88.setText("R$ 14.99");
+        jLabel88.setText("14.99");
 
         jComboBox29.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Qtde", "1", "2", "3" }));
 
@@ -1479,6 +1631,8 @@ public class JFLoja extends javax.swing.JFrame {
 
         jLabel89.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/sabonetePheebo.jpg"))); // NOI18N
 
+        jLabel104.setText("R$");
+
         javax.swing.GroupLayout pnlPCasa3Layout = new javax.swing.GroupLayout(pnlPCasa3);
         pnlPCasa3.setLayout(pnlPCasa3Layout);
         pnlPCasa3Layout.setHorizontalGroup(
@@ -1486,21 +1640,22 @@ public class JFLoja extends javax.swing.JFrame {
             .addGroup(pnlPCasa3Layout.createSequentialGroup()
                 .addGroup(pnlPCasa3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(pnlPCasa3Layout.createSequentialGroup()
-                        .addComponent(jComboBox29, javax.swing.GroupLayout.PREFERRED_SIZE, 67, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addGroup(pnlPCasa3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
+                            .addComponent(jComboBox29, javax.swing.GroupLayout.PREFERRED_SIZE, 67, javax.swing.GroupLayout.PREFERRED_SIZE)
+                            .addComponent(jLabel104))
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addGroup(pnlPCasa3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                             .addComponent(jLabel88)
                             .addComponent(jButton29, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)))
                     .addGroup(pnlPCasa3Layout.createSequentialGroup()
-                        .addGroup(pnlPCasa3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addGroup(pnlPCasa3Layout.createSequentialGroup()
-                                .addGap(26, 26, 26)
-                                .addComponent(jLabel87))
-                            .addGroup(pnlPCasa3Layout.createSequentialGroup()
-                                .addGap(44, 44, 44)
-                                .addComponent(jLabel89)))
+                        .addGap(26, 26, 26)
+                        .addComponent(jLabel87)
                         .addGap(0, 39, Short.MAX_VALUE)))
                 .addContainerGap())
+            .addGroup(pnlPCasa3Layout.createSequentialGroup()
+                .addGap(56, 56, 56)
+                .addComponent(jLabel89)
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
         pnlPCasa3Layout.setVerticalGroup(
             pnlPCasa3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -1510,7 +1665,9 @@ public class JFLoja extends javax.swing.JFrame {
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addComponent(jLabel87)
                 .addGap(1, 1, 1)
-                .addComponent(jLabel88)
+                .addGroup(pnlPCasa3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel88)
+                    .addComponent(jLabel104))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(pnlPCasa3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(jComboBox29, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
@@ -1548,7 +1705,7 @@ public class JFLoja extends javax.swing.JFrame {
 
         jLabel66.setText("Fralda Pampers 30uni");
 
-        jLabel67.setText("R$ 21.99");
+        jLabel67.setText("21.99");
 
         jComboBox22.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Qtde", "1", "2", "3" }));
 
@@ -1556,6 +1713,8 @@ public class JFLoja extends javax.swing.JFrame {
         jButton22.setMargin(new java.awt.Insets(0, 0, 0, 0));
 
         jLabel68.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/FraldaPampers.jpg"))); // NOI18N
+
+        jLabel97.setText("R$");
 
         javax.swing.GroupLayout pnlInfantil1Layout = new javax.swing.GroupLayout(pnlInfantil1);
         pnlInfantil1.setLayout(pnlInfantil1Layout);
@@ -1574,7 +1733,9 @@ public class JFLoja extends javax.swing.JFrame {
                         .addGap(26, 26, 26)
                         .addComponent(jLabel66))
                     .addGroup(pnlInfantil1Layout.createSequentialGroup()
-                        .addGap(57, 57, 57)
+                        .addGap(63, 63, 63)
+                        .addComponent(jLabel97)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addComponent(jLabel67)))
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
@@ -1586,7 +1747,9 @@ public class JFLoja extends javax.swing.JFrame {
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(jLabel66)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jLabel67)
+                .addGroup(pnlInfantil1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel67)
+                    .addComponent(jLabel97))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(pnlInfantil1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jComboBox22, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
@@ -1599,7 +1762,7 @@ public class JFLoja extends javax.swing.JFrame {
 
         jLabel69.setText("Shampu Johnsons Baby");
 
-        jLabel70.setText("R$ 13.99");
+        jLabel70.setText("13.99");
 
         jComboBox23.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Qtde", "1", "2", "3" }));
 
@@ -1607,6 +1770,8 @@ public class JFLoja extends javax.swing.JFrame {
         jButton23.setMargin(new java.awt.Insets(0, 0, 0, 0));
 
         jLabel71.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/JohnsonsBaby.jpg"))); // NOI18N
+
+        jLabel98.setText("R$");
 
         javax.swing.GroupLayout pnlInfantil2Layout = new javax.swing.GroupLayout(pnlInfantil2);
         pnlInfantil2.setLayout(pnlInfantil2Layout);
@@ -1619,14 +1784,16 @@ public class JFLoja extends javax.swing.JFrame {
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addComponent(jButton23, javax.swing.GroupLayout.PREFERRED_SIZE, 106, javax.swing.GroupLayout.PREFERRED_SIZE))
                     .addGroup(pnlInfantil2Layout.createSequentialGroup()
-                        .addGap(55, 55, 55)
-                        .addComponent(jLabel70))
-                    .addGroup(pnlInfantil2Layout.createSequentialGroup()
                         .addGap(26, 26, 26)
                         .addComponent(jLabel69))
                     .addGroup(pnlInfantil2Layout.createSequentialGroup()
                         .addGap(49, 49, 49)
-                        .addComponent(jLabel71)))
+                        .addComponent(jLabel71))
+                    .addGroup(pnlInfantil2Layout.createSequentialGroup()
+                        .addGap(58, 58, 58)
+                        .addComponent(jLabel98)
+                        .addGap(5, 5, 5)
+                        .addComponent(jLabel70)))
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
         pnlInfantil2Layout.setVerticalGroup(
@@ -1637,7 +1804,9 @@ public class JFLoja extends javax.swing.JFrame {
                 .addGap(18, 18, 18)
                 .addComponent(jLabel69)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jLabel70)
+                .addGroup(pnlInfantil2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel70)
+                    .addComponent(jLabel98))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(pnlInfantil2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jComboBox23, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
@@ -1650,7 +1819,7 @@ public class JFLoja extends javax.swing.JFrame {
 
         jLabel72.setText("Pomada Hipogloss");
 
-        jLabel73.setText("R$8.99");
+        jLabel73.setText("8.99");
 
         jComboBox24.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Qtde", "1", "2", "3" }));
 
@@ -1659,18 +1828,12 @@ public class JFLoja extends javax.swing.JFrame {
 
         jLabel74.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/Hipogloss.png"))); // NOI18N
 
+        jLabel99.setText("R$");
+
         javax.swing.GroupLayout pnlInfantil3Layout = new javax.swing.GroupLayout(pnlInfantil3);
         pnlInfantil3.setLayout(pnlInfantil3Layout);
         pnlInfantil3Layout.setHorizontalGroup(
             pnlInfantil3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(pnlInfantil3Layout.createSequentialGroup()
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
-                .addGroup(pnlInfantil3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(jLabel72)
-                    .addGroup(pnlInfantil3Layout.createSequentialGroup()
-                        .addGap(22, 22, 22)
-                        .addComponent(jLabel73)))
-                .addGap(42, 42, 42))
             .addGroup(pnlInfantil3Layout.createSequentialGroup()
                 .addGap(47, 47, 47)
                 .addComponent(jLabel74)
@@ -1679,6 +1842,16 @@ public class JFLoja extends javax.swing.JFrame {
                 .addComponent(jComboBox24, 0, 79, Short.MAX_VALUE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(jButton24, javax.swing.GroupLayout.PREFERRED_SIZE, 90, javax.swing.GroupLayout.PREFERRED_SIZE))
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pnlInfantil3Layout.createSequentialGroup()
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                .addGroup(pnlInfantil3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(pnlInfantil3Layout.createSequentialGroup()
+                        .addGap(10, 10, 10)
+                        .addComponent(jLabel99)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(jLabel73))
+                    .addComponent(jLabel72))
+                .addGap(42, 42, 42))
         );
         pnlInfantil3Layout.setVerticalGroup(
             pnlInfantil3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -1688,7 +1861,9 @@ public class JFLoja extends javax.swing.JFrame {
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addComponent(jLabel72)
                 .addGap(8, 8, 8)
-                .addComponent(jLabel73)
+                .addGroup(pnlInfantil3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel73)
+                    .addComponent(jLabel99))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addGroup(pnlInfantil3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jComboBox24, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
@@ -1701,7 +1876,7 @@ public class JFLoja extends javax.swing.JFrame {
 
         jLabel75.setText("Lenço umi. Granado");
 
-        jLabel76.setText("R$ 22.00");
+        jLabel76.setText("22.00");
 
         jComboBox25.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Qtde", "1", "2", "3" }));
 
@@ -1709,6 +1884,8 @@ public class JFLoja extends javax.swing.JFrame {
         jButton25.setMargin(new java.awt.Insets(0, 0, 0, 0));
 
         jLabel77.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/LencoUmedecido.jpg"))); // NOI18N
+
+        jLabel100.setText("R$");
 
         javax.swing.GroupLayout pnlInfantil4Layout = new javax.swing.GroupLayout(pnlInfantil4);
         pnlInfantil4.setLayout(pnlInfantil4Layout);
@@ -1724,7 +1901,8 @@ public class JFLoja extends javax.swing.JFrame {
                         .addGroup(pnlInfantil4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                             .addComponent(jLabel77)
                             .addGroup(pnlInfantil4Layout.createSequentialGroup()
-                                .addGap(7, 7, 7)
+                                .addComponent(jLabel100)
+                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                                 .addComponent(jLabel76)))
                         .addGap(41, 41, 41)))
                 .addContainerGap())
@@ -1741,7 +1919,9 @@ public class JFLoja extends javax.swing.JFrame {
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(jLabel75)
                 .addGap(1, 1, 1)
-                .addComponent(jLabel76)
+                .addGroup(pnlInfantil4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel76)
+                    .addComponent(jLabel100))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addGroup(pnlInfantil4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jComboBox25, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
@@ -1754,7 +1934,7 @@ public class JFLoja extends javax.swing.JFrame {
 
         jLabel78.setText("Pomada Bepantol baby");
 
-        jLabel79.setText("R$ 22.00");
+        jLabel79.setText("22.00");
 
         jComboBox26.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Qtde", "1", "2", "3" }));
 
@@ -1763,27 +1943,31 @@ public class JFLoja extends javax.swing.JFrame {
 
         jLabel80.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/bepantol.jpg"))); // NOI18N
 
+        jLabel101.setText("R$");
+
         javax.swing.GroupLayout pnlInfantil5Layout = new javax.swing.GroupLayout(pnlInfantil5);
         pnlInfantil5.setLayout(pnlInfantil5Layout);
         pnlInfantil5Layout.setHorizontalGroup(
             pnlInfantil5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pnlInfantil5Layout.createSequentialGroup()
-                .addContainerGap(20, Short.MAX_VALUE)
-                .addComponent(jLabel78)
-                .addGap(27, 27, 27))
             .addGroup(pnlInfantil5Layout.createSequentialGroup()
                 .addComponent(jComboBox26, javax.swing.GroupLayout.PREFERRED_SIZE, 71, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(jButton26, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
             .addGroup(pnlInfantil5Layout.createSequentialGroup()
-                .addGroup(pnlInfantil5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addGroup(pnlInfantil5Layout.createSequentialGroup()
-                        .addGap(57, 57, 57)
-                        .addComponent(jLabel79))
-                    .addGroup(pnlInfantil5Layout.createSequentialGroup()
-                        .addGap(53, 53, 53)
-                        .addComponent(jLabel80)))
+                .addGap(53, 53, 53)
+                .addComponent(jLabel80)
                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pnlInfantil5Layout.createSequentialGroup()
+                .addContainerGap(20, Short.MAX_VALUE)
+                .addGroup(pnlInfantil5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pnlInfantil5Layout.createSequentialGroup()
+                        .addComponent(jLabel78)
+                        .addGap(27, 27, 27))
+                    .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, pnlInfantil5Layout.createSequentialGroup()
+                        .addComponent(jLabel101)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                        .addComponent(jLabel79)
+                        .addGap(51, 51, 51))))
         );
         pnlInfantil5Layout.setVerticalGroup(
             pnlInfantil5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -1792,9 +1976,11 @@ public class JFLoja extends javax.swing.JFrame {
                 .addComponent(jLabel80, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(jLabel78)
-                .addGap(1, 1, 1)
-                .addComponent(jLabel79)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addGroup(pnlInfantil5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                    .addComponent(jLabel79)
+                    .addComponent(jLabel101))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(pnlInfantil5Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jComboBox26, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                     .addComponent(jButton26))
@@ -1902,7 +2088,7 @@ public class JFLoja extends javax.swing.JFrame {
                         .addComponent(btnExcluir)))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addComponent(lblTituloTotal)
-                .addContainerGap(17, Short.MAX_VALUE))
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
         javax.swing.GroupLayout pnlLojaLayout = new javax.swing.GroupLayout(pnlLoja);
@@ -2072,6 +2258,10 @@ public class JFLoja extends javax.swing.JFrame {
         }
     }//GEN-LAST:event_btnFinalizarMouseClicked
 
+    private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jButton2ActionPerformed
+
     /**
      * @param args the command line arguments
      */
@@ -2167,7 +2357,13 @@ public class JFLoja extends javax.swing.JFrame {
     private javax.swing.JComboBox<String> jComboBox7;
     private javax.swing.JComboBox<String> jComboBox8;
     private javax.swing.JComboBox<String> jComboBox9;
+    private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel10;
+    private javax.swing.JLabel jLabel100;
+    private javax.swing.JLabel jLabel101;
+    private javax.swing.JLabel jLabel102;
+    private javax.swing.JLabel jLabel103;
+    private javax.swing.JLabel jLabel104;
     private javax.swing.JLabel jLabel11;
     private javax.swing.JLabel jLabel12;
     private javax.swing.JLabel jLabel13;
@@ -2177,6 +2373,7 @@ public class JFLoja extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel17;
     private javax.swing.JLabel jLabel18;
     private javax.swing.JLabel jLabel19;
+    private javax.swing.JLabel jLabel2;
     private javax.swing.JLabel jLabel20;
     private javax.swing.JLabel jLabel21;
     private javax.swing.JLabel jLabel22;
@@ -2187,10 +2384,18 @@ public class JFLoja extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel27;
     private javax.swing.JLabel jLabel28;
     private javax.swing.JLabel jLabel29;
+    private javax.swing.JLabel jLabel3;
+    private javax.swing.JLabel jLabel30;
+    private javax.swing.JLabel jLabel31;
+    private javax.swing.JLabel jLabel32;
+    private javax.swing.JLabel jLabel33;
+    private javax.swing.JLabel jLabel34;
+    private javax.swing.JLabel jLabel35;
     private javax.swing.JLabel jLabel36;
     private javax.swing.JLabel jLabel37;
     private javax.swing.JLabel jLabel38;
     private javax.swing.JLabel jLabel39;
+    private javax.swing.JLabel jLabel4;
     private javax.swing.JLabel jLabel40;
     private javax.swing.JLabel jLabel41;
     private javax.swing.JLabel jLabel42;
@@ -2201,6 +2406,7 @@ public class JFLoja extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel47;
     private javax.swing.JLabel jLabel48;
     private javax.swing.JLabel jLabel49;
+    private javax.swing.JLabel jLabel5;
     private javax.swing.JLabel jLabel50;
     private javax.swing.JLabel jLabel51;
     private javax.swing.JLabel jLabel52;
@@ -2245,6 +2451,16 @@ public class JFLoja extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel88;
     private javax.swing.JLabel jLabel89;
     private javax.swing.JLabel jLabel9;
+    private javax.swing.JLabel jLabel90;
+    private javax.swing.JLabel jLabel91;
+    private javax.swing.JLabel jLabel92;
+    private javax.swing.JLabel jLabel93;
+    private javax.swing.JLabel jLabel94;
+    private javax.swing.JLabel jLabel95;
+    private javax.swing.JLabel jLabel96;
+    private javax.swing.JLabel jLabel97;
+    private javax.swing.JLabel jLabel98;
+    private javax.swing.JLabel jLabel99;
     private javax.swing.JPanel jPanel12;
     private javax.swing.JScrollPane jScrollPane2;
     private javax.swing.JLabel lblCarrinho;
